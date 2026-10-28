@@ -1,17 +1,17 @@
 # Graph Report - antigravity-brain  (2026-10-28)
 
 ## Corpus Check
-- 42 files · ~17,068 words
+- 43 files · ~17,504 words
 - Verdict: corpus is large enough that graph structure adds value.
 - Unclassified: 2 file(s) not represented in the graph (top: (none) 1, .css 1)
 
 ## Summary
-- 297 nodes · 285 edges · 36 communities (32 shown, 4 thin omitted)
+- 305 nodes · 292 edges · 37 communities (33 shown, 4 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `70f45f01`
+- Built from commit: `46756bd7`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -52,6 +52,7 @@
 - 📜 Projeto: Constituição Arquitetural & Princípios de Engenharia
 - 📐 Plano de Arquitetura: [Nome da Feature / Módulo]
 - 📝 Tarefas de Implementação: [Nome da Feature / Módulo]
+- 📚 Context7 MCP — Consulta a Documentações Oficiais em Tempo Real
 
 ## God Nodes (most connected - your core abstractions)
 1. `🔄 Matriz de Adaptação: Claude Mode ➔ Antigravity (AGY / Gemini)` - 7 edges
@@ -71,7 +72,7 @@
 ## Import Cycles
 - None detected.
 
-## Communities (36 total, 4 thin omitted)
+## Communities (37 total, 4 thin omitted)
 
 ### Community 0 - "package.json"
 Cohesion: 0.07
@@ -201,16 +202,20 @@ Nodes (4): 1. Princípios de Arquitetura & Qualidade, 2. Segurança, LGPD & Priv
 Cohesion: 0.40
 Nodes (4): 1. Visão Geral da Arquitetura & Decisões Técnicas, 2. Árvore de Arquivos Afetados, 3. Trade-offs Considerados, 📐 Plano de Arquitetura: [Nome da Feature / Módulo]
 
+### Community 36 - "📚 Context7 MCP — Consulta a Documentações Oficiais em Tempo Real"
+Cohesion: 0.25
+Nodes (7): 1. `resolve-library-id`, 2. `query-docs`, 📚 Context7 MCP — Consulta a Documentações Oficiais em Tempo Real, 🛠️ Ferramentas Disponíveis, 🔄 Fluxo Canônico de Uso no Antigravity, 🎯 Quando Usar o Context7, 💡 Status Operacional no Host
+
 ## Knowledge Gaps
 - **1 isolated node(s):** `asza-fastapi-service`
-  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 191 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
+  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 197 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
 - **4 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
 - **Why does `services` connect `app` to `postgres`?**
-  _High betweenness centrality (0.008) - this node is a cross-community bridge._
+  _High betweenness centrality (0.007) - this node is a cross-community bridge._
 - **What connects `asza-fastapi-service` to the rest of the system?**
   _1 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `package.json` be split into smaller, more focused modules?**

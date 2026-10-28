@@ -66,9 +66,9 @@
     "semantic_hash": ""
   },
   "context/proactive-suggestion-matrix.md": {
-    "mtime": 1793222501.8898182,
-    "seen": 1793222510.0964062,
-    "ast_hash": "0bd932a6f2231d11ee0ba4312082e16e",
+    "mtime": 1793222889.1629324,
+    "seen": 1793222895.690228,
+    "ast_hash": "711453484b4821317f4db7e1811b333e",
     "semantic_hash": ""
   },
   "context/security-and-lgpd.md": {
@@ -249,6 +249,12 @@
     "mtime": 1793222384.380228,
     "seen": 1793222510.0964062,
     "ast_hash": "7661db742f01783d45a84bc28fb69441",
+    "semantic_hash": ""
+  },
+  "mcps/context7.md": {
+    "mtime": 1793222872.929873,
+    "seen": 1793222895.690228,
+    "ast_hash": "b1b32ca9d555c80264a7ffb41b166e17",
     "semantic_hash": ""
   }
 }
