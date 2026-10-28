@@ -256,5 +256,23 @@
     "seen": 1793222895.690228,
     "ast_hash": "b1b32ca9d555c80264a7ffb41b166e17",
     "semantic_hash": ""
+  },
+  "mcps/chrome-devtools.md": {
+    "mtime": 1793222991.4776702,
+    "seen": 1793223019.8834398,
+    "ast_hash": "07fda4b733ac4eb7cee12f756cd9c21f",
+    "semantic_hash": ""
+  },
+  "mcps/genkit.md": {
+    "mtime": 1793223002.7023895,
+    "seen": 1793223019.8834398,
+    "ast_hash": "d60d2e092b82c04d4e70948d27138c8f",
+    "semantic_hash": ""
+  },
+  "mcps/groq.md": {
+    "mtime": 1793223012.1885188,
+    "seen": 1793223019.8834398,
+    "ast_hash": "012265301df319070fd48081c8fc1159",
+    "semantic_hash": ""
   }
 }

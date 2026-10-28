@@ -1,17 +1,17 @@
 # Graph Report - antigravity-brain  (2026-10-28)
 
 ## Corpus Check
-- 43 files · ~17,504 words
+- 46 files · ~18,077 words
 - Verdict: corpus is large enough that graph structure adds value.
 - Unclassified: 2 file(s) not represented in the graph (top: (none) 1, .css 1)
 
 ## Summary
-- 305 nodes · 292 edges · 37 communities (33 shown, 4 thin omitted)
+- 317 nodes · 301 edges · 40 communities (36 shown, 4 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `46756bd7`
+- Built from commit: `f4f199d8`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -53,6 +53,9 @@
 - 📐 Plano de Arquitetura: [Nome da Feature / Módulo]
 - 📝 Tarefas de Implementação: [Nome da Feature / Módulo]
 - 📚 Context7 MCP — Consulta a Documentações Oficiais em Tempo Real
+- 🌐 Chrome DevTools MCP — Automação de Browser, E2E & Auditoria Web
+- ⚙️ Genkit MCP Server — Orquestração & Tracing GenAI
+- ⚡ Groq MCP Server — Inferência LPU Ultra-Rápida & Execução de Código
 
 ## God Nodes (most connected - your core abstractions)
 1. `🔄 Matriz de Adaptação: Claude Mode ➔ Antigravity (AGY / Gemini)` - 7 edges
@@ -72,7 +75,7 @@
 ## Import Cycles
 - None detected.
 
-## Communities (37 total, 4 thin omitted)
+## Communities (40 total, 4 thin omitted)
 
 ### Community 0 - "package.json"
 Cohesion: 0.07
@@ -87,12 +90,12 @@ Cohesion: 0.07
 Nodes (24): 1. `db-enforcer` & PostgreSQL, 2. `prisma-cli` & Prisma ORM v7, 3. `supabase`, 🗄️ Skills: Backend, Banco de Dados & Infraestrutura, 1. `frontend-builder`, 2. `tailwind` (Tailwind CSS v4), 3. Catálogo de Inspiração & Microinterações: [UIverse.io](https://uiverse.io/), 🎨 Skills: Frontend, Design Systems & UI (+16 more)
 
 ### Community 3 - "postgres"
-Cohesion: 0.15
-Nodes (13): POSTGRES_DB, POSTGRES_PASSWORD, POSTGRES_USER, interval, retries, test, timeout, environment (+5 more)
+Cohesion: 0.09
+Nodes (21): POSTGRES_DB, POSTGRES_PASSWORD, POSTGRES_USER, interval, retries, test, timeout, environment (+13 more)
 
 ### Community 4 - "app"
-Cohesion: 0.11
-Nodes (18): build, depends_on, environment, ports, restart, postgres, redis, condition (+10 more)
+Cohesion: 0.20
+Nodes (10): build, depends_on, environment, ports, restart, postgres, redis, condition (+2 more)
 
 ### Community 5 - "🧠 Social Intelligence, Career-Ops & Open Source SaaS-Killers"
 Cohesion: 0.18
@@ -206,25 +209,37 @@ Nodes (4): 1. Visão Geral da Arquitetura & Decisões Técnicas, 2. Árvore de A
 Cohesion: 0.25
 Nodes (7): 1. `resolve-library-id`, 2. `query-docs`, 📚 Context7 MCP — Consulta a Documentações Oficiais em Tempo Real, 🛠️ Ferramentas Disponíveis, 🔄 Fluxo Canônico de Uso no Antigravity, 🎯 Quando Usar o Context7, 💡 Status Operacional no Host
 
+### Community 37 - "🌐 Chrome DevTools MCP — Automação de Browser, E2E & Auditoria Web"
+Cohesion: 0.50
+Nodes (3): 💡 Casos de Uso no Antigravity, 🌐 Chrome DevTools MCP — Automação de Browser, E2E & Auditoria Web, 🛠️ Principais Ferramentas Expostas
+
+### Community 38 - "⚙️ Genkit MCP Server — Orquestração & Tracing GenAI"
+Cohesion: 0.50
+Nodes (3): 💡 Casos de Uso no Antigravity, ⚙️ Genkit MCP Server — Orquestração & Tracing GenAI, 🛠️ Principais Ferramentas Expostas
+
+### Community 39 - "⚡ Groq MCP Server — Inferência LPU Ultra-Rápida & Execução de Código"
+Cohesion: 0.50
+Nodes (3): 💡 Casos de Uso no Antigravity, ⚡ Groq MCP Server — Inferência LPU Ultra-Rápida & Execução de Código, 🛠️ Principais Ferramentas Expostas
+
 ## Knowledge Gaps
 - **1 isolated node(s):** `asza-fastapi-service`
-  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 197 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
+  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 206 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
 - **4 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
-- **Why does `services` connect `app` to `postgres`?**
+- **Why does `services` connect `postgres` to `app`?**
   _High betweenness centrality (0.007) - this node is a cross-community bridge._
 - **What connects `asza-fastapi-service` to the rest of the system?**
   _1 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `package.json` be split into smaller, more focused modules?**
   _Cohesion score 0.06707317073170732 - nodes in this community are weakly interconnected._
 - **Why does `lucide-react` connect `lucide-react` to `package.json`?**
-  _High betweenness centrality (0.007) - this node is a cross-community bridge._
+  _High betweenness centrality (0.006) - this node is a cross-community bridge._
 - **Should `🤖 Skills: Inteligência Artificial Local, Agentes & Automação` be split into smaller, more focused modules?**
   _Cohesion score 0.06896551724137931 - nodes in this community are weakly interconnected._
 - **Why does `react` connect `lucide-react` to `package.json`?**
-  _High betweenness centrality (0.007) - this node is a cross-community bridge._
-- **Should `app` be split into smaller, more focused modules?**
-  _Cohesion score 0.10526315789473684 - nodes in this community are weakly interconnected._
+  _High betweenness centrality (0.006) - this node is a cross-community bridge._
+- **Should `postgres` be split into smaller, more focused modules?**
+  _Cohesion score 0.09090909090909091 - nodes in this community are weakly interconnected._
