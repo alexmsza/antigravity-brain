@@ -46,5 +46,125 @@
     "seen": 1793152645.5582438,
     "ast_hash": "71a6ea334d48f8d168bdebd2d3b5ce53",
     "semantic_hash": "71a6ea334d48f8d168bdebd2d3b5ce53"
+  },
+  "README.md": {
+    "mtime": 1793218749.855934,
+    "seen": 1793218790.4642408,
+    "ast_hash": "22eba33e67758e563e2cc0d429dfb40b",
+    "semantic_hash": ""
+  },
+  "context/antigravity-directives.md": {
+    "mtime": 1793152570.0819945,
+    "seen": 1793218790.4642408,
+    "ast_hash": "95608deeb24887aef93447092eccbdef",
+    "semantic_hash": ""
+  },
+  "context/model-routing-matrix.md": {
+    "mtime": 1793152583.895637,
+    "seen": 1793218790.4642408,
+    "ast_hash": "a636b8a98d1c64b4b0781540e9e45a12",
+    "semantic_hash": ""
+  },
+  "context/proactive-suggestion-matrix.md": {
+    "mtime": 1793218731.5866232,
+    "seen": 1793218790.4642408,
+    "ast_hash": "71df28e70ac7203044d20890243971f4",
+    "semantic_hash": ""
+  },
+  "context/security-and-lgpd.md": {
+    "mtime": 1793152576.5076318,
+    "seen": 1793218790.4642408,
+    "ast_hash": "d4f7a50c41ce249ad62c5c45afd0b5ef",
+    "semantic_hash": ""
+  },
+  "mcps/README.md": {
+    "mtime": 1793152495.0720513,
+    "seen": 1793218790.4642408,
+    "ast_hash": "dd88ba27573521d8ea7644cd86cd7588",
+    "semantic_hash": ""
+  },
+  "mcps/aszadev-local.md": {
+    "mtime": 1793152511.095409,
+    "seen": 1793218790.4642408,
+    "ast_hash": "8b2913cedc7fd92d54e0a2cb968de51e",
+    "semantic_hash": ""
+  },
+  "mcps/github.md": {
+    "mtime": 1793152504.0114074,
+    "seen": 1793218790.4642408,
+    "ast_hash": "5fb6c508fcb5db0a948ae4b3979cd4e7",
+    "semantic_hash": ""
+  },
+  "mcps/iris.md": {
+    "mtime": 1793152519.013023,
+    "seen": 1793218790.4642408,
+    "ast_hash": "17facfb3e385a990dcdaece714b0ef04",
+    "semantic_hash": ""
+  },
+  "mcps/notion.md": {
+    "mtime": 1793152525.4111614,
+    "seen": 1793218790.4642408,
+    "ast_hash": "c8d4fd75b2af1deef93c91ddef9ad9bd",
+    "semantic_hash": ""
+  },
+  "models-sites/amplus-imoveis/analysis.md": {
+    "mtime": 1793152327.1184587,
+    "seen": 1793218790.4642408,
+    "ast_hash": "8a1f597babd5717279dcf9d483310020",
+    "semantic_hash": ""
+  },
+  "models-sites/ceo-boa-viagem/analysis.md": {
+    "mtime": 1793152457.0211709,
+    "seen": 1793218790.4642408,
+    "ast_hash": "2e1f97fd1fe8e864b8cfb118395f089c",
+    "semantic_hash": ""
+  },
+  "models-sites/flat-belavista/analysis.md": {
+    "mtime": 1793152375.4315786,
+    "seen": 1793218790.4642408,
+    "ast_hash": "cdde5e55b65046d886db09d41958da01",
+    "semantic_hash": ""
+  },
+  "models-sites/pov-podcast/analysis.md": {
+    "mtime": 1793152415.9000607,
+    "seen": 1793218790.4642408,
+    "ast_hash": "d7c2213ea17855f92cb6ff27feb86e89",
+    "semantic_hash": ""
+  },
+  "skills/README.md": {
+    "mtime": 1793152533.8525448,
+    "seen": 1793218790.4642408,
+    "ast_hash": "e850dfbf0e08357460cbd5c3f88ad699",
+    "semantic_hash": ""
+  },
+  "skills/backend-and-databases.md": {
+    "mtime": 1793152552.1970246,
+    "seen": 1793218790.4642408,
+    "ast_hash": "283af183b1929403f4ef98d5c64b1ba0",
+    "semantic_hash": ""
+  },
+  "skills/frontend-and-ui.md": {
+    "mtime": 1793152542.9540098,
+    "seen": 1793218790.4642408,
+    "ast_hash": "42bd48ec3d19323d14aeb9986fe66818",
+    "semantic_hash": ""
+  },
+  "skills/local-ai-and-agents.md": {
+    "mtime": 1793152560.3555899,
+    "seen": 1793218790.4642408,
+    "ast_hash": "da7d580288764d9e1ce628ba867eefcf",
+    "semantic_hash": ""
+  },
+  "skills/social-intelligence-and-career-ops.md": {
+    "mtime": 1793218673.970018,
+    "seen": 1793218790.4642408,
+    "ast_hash": "cc88ea7fef59d0c973fe3a850d725c4d",
+    "semantic_hash": ""
+  },
+  "skills/ux-cognitive-laws.md": {
+    "mtime": 1793218699.489529,
+    "seen": 1793218790.4642408,
+    "ast_hash": "8ed22e19adb0ed11a6b5bf5228767f41",
+    "semantic_hash": ""
   }
 }

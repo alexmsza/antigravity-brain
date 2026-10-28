@@ -19,3 +19,8 @@ out/
 # OS Files
 .DS_Store
 Thumbs.db
+
+# Graphify cache
+graphify-out/cache/
+graphify-out/*.pending.json
+graphify-out/*.sig

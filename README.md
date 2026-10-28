@@ -30,6 +30,8 @@ antigravity-brain/
 ├── skills/                          # Matriz de skills especializadas de engenharia e IA
 │   ├── README.md                    # Guia de roteamento de skills
 │   ├── frontend-and-ui.md           # Next.js 15, Tailwind v4, shadcn/ui, UIverse
+│   ├── ux-cognitive-laws.md         # As 20 Leis de UX e Design Cognitivo para Interfaces
+│   ├── social-intelligence-and-career-ops.md # Career-Ops, Turnitout, SaaS-killers e Instagram Skill
 │   ├── backend-and-databases.md     # Prisma ORM, Supabase, PostgreSQL, DB Enforcer
 │   ├── data-and-ml.md               # BigQuery, dbt, Dataform, GCP Pipelines
 │   ├── science-and-bio.md           # AlphaFold, ChEMBL, PDB, UniProt, BLAST
@@ -39,6 +41,7 @@ antigravity-brain/
 │   ├── antigravity-directives.md    # Postura de Tech Lead, tom humano e pragmatismo
 │   ├── security-and-lgpd.md         # Zero leaks na UI, proteção de PII e boundary checks
 │   ├── model-routing-matrix.md      # Matriz inteligente de modelos e economia de tokens
+│   ├── proactive-suggestion-matrix.md # Matriz de sugestões ativas baseadas no acervo do Alex
 │   └── ui-component-catalogs.md     # Padrões visuais inspirados no UIverse.io
 │
 ├── stacks-templates/                # Blueprints prontos para inicialização de projetos
