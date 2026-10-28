@@ -36,3 +36,9 @@ Este diretório cataloga todas as **Skills Especializadas** integradas ao Antigr
 - `kaggle_cloud_compute`: Orquestrador de computação pesada gratuita em nuvem (GPUs T4 e TPUs).
 - `ebook_ai_translator`: Esteira de ingestão e tradução de manuais com reprodução em Mermaid/ASCII.
 - `lms_academic_ops`: Automação de tarefas acadêmicas FAT / IFNMG Moodle com Notion Calendar.
+
+### 4. [Engenharia de Software, Governança & Spec-Driven Development](spec-driven-development-sdd.md)
+- `spec-driven-development-sdd`: Metodologia SDD baseada no `github/spec-kit`. Governança estrita onde especificações executáveis (`.specify/specs`), planos (`.specify/plans`) e checklists de tarefas (`.specify/tasks`) obrigatoriamente precedem a implementação, encerrando com verificação automatizada (`.specify/convergence`).
+- `agentic-awesome-skills-engine`: Motor de composição de skills AAS Core (`sickn33/agentic-awesome-skills`). Catálogo modular de playbooks `SKILL.md`, stacks temáticas via `aas-stack.json`, progressive disclosure para economia de tokens e compatibilidade universal Gemini/AGY e Claude.
+- `stacks-templates/spec-kit-blueprint`: Blueprint canônico contendo constitution, templates de especificação, planejamento, tarefas e relatórios de convergência prontos para replicação em qualquer repositório.
+

@@ -1,17 +1,17 @@
 # Graph Report - antigravity-brain  (2026-10-28)
 
 ## Corpus Check
-- 35 files · ~15,039 words
+- 42 files · ~17,068 words
 - Verdict: corpus is large enough that graph structure adds value.
 - Unclassified: 2 file(s) not represented in the graph (top: (none) 1, .css 1)
 
 ## Summary
-- 259 nodes · 253 edges · 31 communities (28 shown, 3 thin omitted)
+- 297 nodes · 285 edges · 36 communities (32 shown, 4 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `f94e0233`
+- Built from commit: `70f45f01`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -46,7 +46,12 @@
 - 🕵️ Cibersegurança, OSINT & Inteligência Forense Digital
 - 🏗️ Stack Canônica de MVP de Baixo Custo (Zero-Waste Architecture)
 - 🚀 SaaS-Killers & Infraestrutura Auto-Hospedada (Custo R$ 0)
-- scripts
+- 📋 Especificação Funcional: [Nome da Feature / Módulo]
+- Convergence Report: [Feature Name]
+- ⚡ Agentic Awesome Skills (AAS Core) — Catálogo de Playbooks Agênticos
+- 📜 Projeto: Constituição Arquitetural & Princípios de Engenharia
+- 📐 Plano de Arquitetura: [Nome da Feature / Módulo]
+- 📝 Tarefas de Implementação: [Nome da Feature / Módulo]
 
 ## God Nodes (most connected - your core abstractions)
 1. `🔄 Matriz de Adaptação: Claude Mode ➔ Antigravity (AGY / Gemini)` - 7 edges
@@ -56,9 +61,9 @@
 5. `react` - 6 edges
 6. `🚀 2. Micro-SaaS & Ferramentas Verticais` - 6 edges
 7. `⚡ Open Source Power Stack — Acervo de Tecnologias Emergentes & Repositórios de Alta Performance` - 6 edges
-8. `healthcheck` - 5 edges
-9. `scripts` - 5 edges
-10. `🤖 Frameworks de Agentes Autônomos, Sandboxes & Execução de Código` - 5 edges
+8. `📋 Especificação Funcional: [Nome da Feature / Módulo]` - 6 edges
+9. `healthcheck` - 5 edges
+10. `scripts` - 5 edges
 
 ## Surprising Connections (you probably didn't know these)
 - None detected - all connections are within the same source files.
@@ -66,19 +71,19 @@
 ## Import Cycles
 - None detected.
 
-## Communities (31 total, 3 thin omitted)
+## Communities (36 total, 4 thin omitted)
 
 ### Community 0 - "package.json"
-Cohesion: 0.08
-Nodes (35): class-variance-authority, clsx, next, postcss, @radix-ui/react-dialog, @radix-ui/react-dropdown-menu, @radix-ui/react-slot, react-dom (+27 more)
+Cohesion: 0.07
+Nodes (40): class-variance-authority, clsx, next, postcss, @radix-ui/react-dialog, @radix-ui/react-dropdown-menu, @radix-ui/react-slot, react-dom (+32 more)
 
 ### Community 1 - "lucide-react"
 Cohesion: 0.15
 Nodes (8): ListingItem, mockListings, Treatment, treatments, lucide-react, react, lucide-react@^1.16.0, react@^19.0.0
 
 ### Community 2 - "🤖 Skills: Inteligência Artificial Local, Agentes & Automação"
-Cohesion: 0.09
-Nodes (18): 1. `db-enforcer` & PostgreSQL, 2. `prisma-cli` & Prisma ORM v7, 3. `supabase`, 🗄️ Skills: Backend, Banco de Dados & Infraestrutura, 1. `frontend-builder`, 2. `tailwind` (Tailwind CSS v4), 3. Catálogo de Inspiração & Microinterações: [UIverse.io](https://uiverse.io/), 🎨 Skills: Frontend, Design Systems & UI (+10 more)
+Cohesion: 0.07
+Nodes (24): 1. `db-enforcer` & PostgreSQL, 2. `prisma-cli` & Prisma ORM v7, 3. `supabase`, 🗄️ Skills: Backend, Banco de Dados & Infraestrutura, 1. `frontend-builder`, 2. `tailwind` (Tailwind CSS v4), 3. Catálogo de Inspiração & Microinterações: [UIverse.io](https://uiverse.io/), 🎨 Skills: Frontend, Design Systems & UI (+16 more)
 
 ### Community 3 - "postgres"
 Cohesion: 0.15
@@ -176,29 +181,45 @@ Nodes (4): 📋 Detalhamento dos Componentes & Custos, 🔒 Princípios de Produ
 Cohesion: 0.50
 Nodes (3): 💡 Heurística de Adoção Técnica, 📊 Matriz Comparativa Mestre, 🚀 SaaS-Killers & Infraestrutura Auto-Hospedada (Custo R$ 0)
 
-### Community 30 - "scripts"
+### Community 30 - "📋 Especificação Funcional: [Nome da Feature / Módulo]"
+Cohesion: 0.29
+Nodes (6): 1. Contexto & Histórias de Usuário, 2. Requisitos Funcionais (RF), 3. Requisitos Não-Funcionais (RNF), 4. Contratos de Dados & Schemas (Zod / TypeScript), 5. Critérios de Aceitação (Gherkin / Given-When-Then), 📋 Especificação Funcional: [Nome da Feature / Módulo]
+
+### Community 31 - "Convergence Report: [Feature Name]"
+Cohesion: 0.33
+Nodes (5): 1. Automated Verification Matrix, 2. Test Execution & Build Logs, 3. Security, Boundaries & Constitutional Compliance, 4. Final Verdict, Convergence Report: [Feature Name]
+
+### Community 32 - "⚡ Agentic Awesome Skills (AAS Core) — Catálogo de Playbooks Agênticos"
 Cohesion: 0.40
-Nodes (5): scripts, build, dev, lint, start
+Nodes (4): ⚡ Agentic Awesome Skills (AAS Core) — Catálogo de Playbooks Agênticos, 🎯 Conceito Central, 📍 Localizações no Ecossistema Alex Souza, 🏛️ Princípios de Operação
+
+### Community 33 - "📜 Projeto: Constituição Arquitetural & Princípios de Engenharia"
+Cohesion: 0.40
+Nodes (4): 1. Princípios de Arquitetura & Qualidade, 2. Segurança, LGPD & Privacidade (Security by Design), 3. Estratégia de Testes & Convergência, 📜 Projeto: Constituição Arquitetural & Princípios de Engenharia
+
+### Community 34 - "📐 Plano de Arquitetura: [Nome da Feature / Módulo]"
+Cohesion: 0.40
+Nodes (4): 1. Visão Geral da Arquitetura & Decisões Técnicas, 2. Árvore de Arquivos Afetados, 3. Trade-offs Considerados, 📐 Plano de Arquitetura: [Nome da Feature / Módulo]
 
 ## Knowledge Gaps
 - **1 isolated node(s):** `asza-fastapi-service`
-  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 161 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
-- **3 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
+  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 191 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
+- **4 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
 - **Why does `services` connect `app` to `postgres`?**
-  _High betweenness centrality (0.010) - this node is a cross-community bridge._
+  _High betweenness centrality (0.008) - this node is a cross-community bridge._
 - **What connects `asza-fastapi-service` to the rest of the system?**
   _1 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `package.json` be split into smaller, more focused modules?**
-  _Cohesion score 0.07936507936507936 - nodes in this community are weakly interconnected._
+  _Cohesion score 0.06707317073170732 - nodes in this community are weakly interconnected._
 - **Why does `lucide-react` connect `lucide-react` to `package.json`?**
-  _High betweenness centrality (0.009) - this node is a cross-community bridge._
+  _High betweenness centrality (0.007) - this node is a cross-community bridge._
 - **Should `🤖 Skills: Inteligência Artificial Local, Agentes & Automação` be split into smaller, more focused modules?**
-  _Cohesion score 0.09090909090909091 - nodes in this community are weakly interconnected._
+  _Cohesion score 0.06896551724137931 - nodes in this community are weakly interconnected._
 - **Why does `react` connect `lucide-react` to `package.json`?**
-  _High betweenness centrality (0.009) - this node is a cross-community bridge._
+  _High betweenness centrality (0.007) - this node is a cross-community bridge._
 - **Should `app` be split into smaller, more focused modules?**
   _Cohesion score 0.10526315789473684 - nodes in this community are weakly interconnected._

@@ -48,9 +48,9 @@
     "semantic_hash": "71a6ea334d48f8d168bdebd2d3b5ce53"
   },
   "README.md": {
-    "mtime": 1793221997.2170787,
-    "seen": 1793222015.7810998,
-    "ast_hash": "04ac4cb99668ddb383fd6b94247c3818",
+    "mtime": 1793222493.918257,
+    "seen": 1793222510.0964062,
+    "ast_hash": "435214d3f0c3b1863f023d597fc06b9b",
     "semantic_hash": ""
   },
   "context/antigravity-directives.md": {
@@ -66,9 +66,9 @@
     "semantic_hash": ""
   },
   "context/proactive-suggestion-matrix.md": {
-    "mtime": 1793222007.126808,
-    "seen": 1793222015.7810998,
-    "ast_hash": "15f88fbea6357ab10fc3cd35f5c414e6",
+    "mtime": 1793222501.8898182,
+    "seen": 1793222510.0964062,
+    "ast_hash": "0bd932a6f2231d11ee0ba4312082e16e",
     "semantic_hash": ""
   },
   "context/security-and-lgpd.md": {
@@ -132,9 +132,9 @@
     "semantic_hash": ""
   },
   "skills/README.md": {
-    "mtime": 1793221989.621502,
-    "seen": 1793222015.7810998,
-    "ast_hash": "ae4d6feb8a3770682a1d7c12d288d7f6",
+    "mtime": 1793222482.7633426,
+    "seen": 1793222510.0964062,
+    "ast_hash": "ca0578b7073ac3c2cdfb7db73ff5c14a",
     "semantic_hash": ""
   },
   "skills/backend-and-databases.md": {
@@ -207,6 +207,48 @@
     "mtime": 1793221974.3478184,
     "seen": 1793222015.7810998,
     "ast_hash": "02a70d52bd2a7e43b12c189ea6111833",
+    "semantic_hash": ""
+  },
+  "skills/agentic-awesome-skills-engine.md": {
+    "mtime": 1793222342.8194516,
+    "seen": 1793222510.0964062,
+    "ast_hash": "e12d5a6ccb20280539fc6961055f0622",
+    "semantic_hash": ""
+  },
+  "skills/spec-driven-development-sdd.md": {
+    "mtime": 1793222331.279189,
+    "seen": 1793222510.0964062,
+    "ast_hash": "07b6df94f721b7c652766ef46b412e2d",
+    "semantic_hash": ""
+  },
+  "stacks-templates/spec-kit-blueprint/constitution.md": {
+    "mtime": 1793222354.2096272,
+    "seen": 1793222510.0964062,
+    "ast_hash": "6a81673b9f2b9e6c87fd6d236932f6be",
+    "semantic_hash": ""
+  },
+  "stacks-templates/spec-kit-blueprint/convergence/000-template-converge.md": {
+    "mtime": 1793222443.9753723,
+    "seen": 1793222510.0964062,
+    "ast_hash": "2c5363ff0e02692f44826fc8490d2a0d",
+    "semantic_hash": ""
+  },
+  "stacks-templates/spec-kit-blueprint/plans/000-template-plan.md": {
+    "mtime": 1793222374.6491165,
+    "seen": 1793222510.0964062,
+    "ast_hash": "624eaa2416fb15079c0776050eb6e6e7",
+    "semantic_hash": ""
+  },
+  "stacks-templates/spec-kit-blueprint/specs/000-template-spec.md": {
+    "mtime": 1793222365.4047706,
+    "seen": 1793222510.0964062,
+    "ast_hash": "deee2f6bf7fa79a9f7f1fdabdc907b7f",
+    "semantic_hash": ""
+  },
+  "stacks-templates/spec-kit-blueprint/tasks/000-template-tasks.md": {
+    "mtime": 1793222384.380228,
+    "seen": 1793222510.0964062,
+    "ast_hash": "7661db742f01783d45a84bc28fb69441",
     "semantic_hash": ""
   }
 }

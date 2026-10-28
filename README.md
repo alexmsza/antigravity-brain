@@ -29,6 +29,8 @@ antigravity-brain/
 │
 ├── skills/                          # Matriz de skills especializadas de engenharia e IA
 │   ├── README.md                    # Guia de roteamento de skills
+│   ├── spec-driven-development-sdd.md # Governança SDD Spec Kit (Constitution -> Spec -> Plan -> Tasks -> Converge)
+│   ├── agentic-awesome-skills-engine.md # Motor AAS Core, composição de stacks e progressive disclosure
 │   ├── saas-killers-catalog.md      # Catálogo mestre de 25+ alternativas open source a SaaS pagos
 │   ├── autonomous-agents-and-sandboxes.md # Alibaba OpenSandbox, Camofox Browser, ripwire, OmniRoute
 │   ├── universal-42-skills-framework.md # 42 skills especializadas em 6 camadas para Gemini/AGY e Claude
@@ -51,6 +53,7 @@ antigravity-brain/
 │   └── ui-component-catalogs.md     # Padrões visuais inspirados no UIverse.io
 │
 ├── stacks-templates/                # Blueprints prontos para inicialização de projetos
+│   ├── spec-kit-blueprint/          # Blueprint canônico SDD (constitution, specs, plans, tasks, convergence)
 │   ├── zero-cost-mvp-stack.md       # Stack canônica de MVP de baixo custo (~$20/mês fixo)
 │   ├── nextjs15-tailwind-shadcn/    # Boilerplate Next.js 15 App Router + Tailwind v4 + shadcn/ui
 │   ├── python-uv-fastapi/           # Boilerplate Python moderno gerenciado via uv
