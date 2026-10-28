@@ -1,0 +1,188 @@
+{
+  "communities": {
+    "0": [
+      "ref_class_variance_authority",
+      "ref_clsx",
+      "ref_next",
+      "ref_radix_ui_react_dialog",
+      "ref_radix_ui_react_dropdown_menu",
+      "ref_radix_ui_react_slot",
+      "ref_react_dom",
+      "ref_tailwind_merge",
+      "stacks_templates_nextjs15_tailwind_shadcn_package",
+      "stacks_templates_nextjs15_tailwind_shadcn_package_dependencies",
+      "stacks_templates_nextjs15_tailwind_shadcn_package_dependencies_class_variance_authority",
+      "stacks_templates_nextjs15_tailwind_shadcn_package_dependencies_clsx",
+      "stacks_templates_nextjs15_tailwind_shadcn_package_dependencies_next",
+      "stacks_templates_nextjs15_tailwind_shadcn_package_dependencies_radix_ui_react_dialog",
+      "stacks_templates_nextjs15_tailwind_shadcn_package_dependencies_radix_ui_react_dropdown_menu",
+      "stacks_templates_nextjs15_tailwind_shadcn_package_dependencies_radix_ui_react_slot",
+      "stacks_templates_nextjs15_tailwind_shadcn_package_dependencies_react_dom",
+      "stacks_templates_nextjs15_tailwind_shadcn_package_dependencies_tailwind_merge",
+      "stacks_templates_nextjs15_tailwind_shadcn_package_name",
+      "stacks_templates_nextjs15_tailwind_shadcn_package_private",
+      "stacks_templates_nextjs15_tailwind_shadcn_package_version"
+    ],
+    "1": [
+      "models_sites_amplus_imoveis_template_corporaterealestatepage",
+      "models_sites_amplus_imoveis_template_corporaterealestatepage_corporaterealestatepage",
+      "models_sites_amplus_imoveis_template_corporaterealestatepage_listingitem",
+      "models_sites_amplus_imoveis_template_corporaterealestatepage_mocklistings",
+      "models_sites_ceo_boa_viagem_template_luxuryclinicpage",
+      "models_sites_ceo_boa_viagem_template_luxuryclinicpage_luxuryclinicpage",
+      "models_sites_ceo_boa_viagem_template_luxuryclinicpage_treatment",
+      "models_sites_ceo_boa_viagem_template_luxuryclinicpage_treatments",
+      "models_sites_flat_belavista_template_beachflatrentalpage",
+      "models_sites_flat_belavista_template_beachflatrentalpage_beachflatrentalpage",
+      "models_sites_pov_podcast_template_podcaststudiopage",
+      "models_sites_pov_podcast_template_podcaststudiopage_podcaststudiopage",
+      "ref_lucide_react",
+      "ref_react",
+      "stacks_templates_nextjs15_tailwind_shadcn_package_dependencies_lucide_react",
+      "stacks_templates_nextjs15_tailwind_shadcn_package_dependencies_react"
+    ],
+    "2": [
+      "ref_postcss",
+      "ref_tailwindcss",
+      "ref_tailwindcss_postcss",
+      "ref_types_node",
+      "ref_types_react",
+      "ref_types_react_dom",
+      "ref_typescript",
+      "stacks_templates_nextjs15_tailwind_shadcn_package_devdependencies",
+      "stacks_templates_nextjs15_tailwind_shadcn_package_devdependencies_postcss",
+      "stacks_templates_nextjs15_tailwind_shadcn_package_devdependencies_tailwindcss",
+      "stacks_templates_nextjs15_tailwind_shadcn_package_devdependencies_tailwindcss_postcss",
+      "stacks_templates_nextjs15_tailwind_shadcn_package_devdependencies_types_node",
+      "stacks_templates_nextjs15_tailwind_shadcn_package_devdependencies_types_react",
+      "stacks_templates_nextjs15_tailwind_shadcn_package_devdependencies_types_react_dom",
+      "stacks_templates_nextjs15_tailwind_shadcn_package_devdependencies_typescript"
+    ],
+    "3": [
+      "stacks_templates_docker_compose_production_docker_compose_environment_postgres_db",
+      "stacks_templates_docker_compose_production_docker_compose_environment_postgres_password",
+      "stacks_templates_docker_compose_production_docker_compose_environment_postgres_user",
+      "stacks_templates_docker_compose_production_docker_compose_healthcheck_interval",
+      "stacks_templates_docker_compose_production_docker_compose_healthcheck_retries",
+      "stacks_templates_docker_compose_production_docker_compose_healthcheck_test",
+      "stacks_templates_docker_compose_production_docker_compose_healthcheck_timeout",
+      "stacks_templates_docker_compose_production_docker_compose_postgres_environment",
+      "stacks_templates_docker_compose_production_docker_compose_postgres_healthcheck",
+      "stacks_templates_docker_compose_production_docker_compose_postgres_image",
+      "stacks_templates_docker_compose_production_docker_compose_postgres_restart",
+      "stacks_templates_docker_compose_production_docker_compose_postgres_volumes",
+      "stacks_templates_docker_compose_production_docker_compose_services_postgres"
+    ],
+    "4": [
+      "stacks_templates_docker_compose_production_docker_compose_app_build",
+      "stacks_templates_docker_compose_production_docker_compose_app_depends_on",
+      "stacks_templates_docker_compose_production_docker_compose_app_environment",
+      "stacks_templates_docker_compose_production_docker_compose_app_ports",
+      "stacks_templates_docker_compose_production_docker_compose_app_restart",
+      "stacks_templates_docker_compose_production_docker_compose_depends_on_postgres",
+      "stacks_templates_docker_compose_production_docker_compose_depends_on_redis",
+      "stacks_templates_docker_compose_production_docker_compose_postgres_condition",
+      "stacks_templates_docker_compose_production_docker_compose_redis_condition",
+      "stacks_templates_docker_compose_production_docker_compose_services_app"
+    ],
+    "5": [
+      "stacks_templates_docker_compose_production_docker_compose",
+      "stacks_templates_docker_compose_production_docker_compose_redis_image",
+      "stacks_templates_docker_compose_production_docker_compose_redis_restart",
+      "stacks_templates_docker_compose_production_docker_compose_redis_volumes",
+      "stacks_templates_docker_compose_production_docker_compose_services",
+      "stacks_templates_docker_compose_production_docker_compose_services_redis",
+      "stacks_templates_docker_compose_production_docker_compose_volumes",
+      "stacks_templates_docker_compose_production_docker_compose_volumes_pgdata",
+      "stacks_templates_docker_compose_production_docker_compose_volumes_redisdata"
+    ],
+    "6": [
+      "basemodel",
+      "fastapi",
+      "get",
+      "pydantic",
+      "stacks_templates_python_uv_fastapi_main",
+      "stacks_templates_python_uv_fastapi_main_health_check",
+      "stacks_templates_python_uv_fastapi_main_healthresponse",
+      "typing"
+    ],
+    "7": [
+      "stacks_templates_nextjs15_tailwind_shadcn_package_scripts",
+      "stacks_templates_nextjs15_tailwind_shadcn_package_scripts_build",
+      "stacks_templates_nextjs15_tailwind_shadcn_package_scripts_dev",
+      "stacks_templates_nextjs15_tailwind_shadcn_package_scripts_lint",
+      "stacks_templates_nextjs15_tailwind_shadcn_package_scripts_start"
+    ],
+    "8": [
+      "pkg_asza_fastapi_service"
+    ]
+  },
+  "cohesion": {
+    "0": 0.13333333333333333,
+    "1": 0.15,
+    "2": 0.13333333333333333,
+    "3": 0.15384615384615385,
+    "4": 0.2,
+    "5": 0.2222222222222222,
+    "6": 0.2857142857142857,
+    "7": 0.4,
+    "8": 1.0
+  },
+  "gods": [
+    {
+      "id": "stacks_templates_docker_compose_production_docker_compose_services_app",
+      "label": "app",
+      "degree": 6
+    },
+    {
+      "id": "stacks_templates_docker_compose_production_docker_compose_services_postgres",
+      "label": "postgres",
+      "degree": 6
+    },
+    {
+      "id": "ref_lucide_react",
+      "label": "lucide-react",
+      "degree": 6
+    },
+    {
+      "id": "ref_react",
+      "label": "react",
+      "degree": 6
+    },
+    {
+      "id": "stacks_templates_docker_compose_production_docker_compose_postgres_healthcheck",
+      "label": "healthcheck",
+      "degree": 5
+    },
+    {
+      "id": "stacks_templates_nextjs15_tailwind_shadcn_package_scripts",
+      "label": "scripts",
+      "degree": 5
+    },
+    {
+      "id": "stacks_templates_docker_compose_production_docker_compose_services",
+      "label": "services",
+      "degree": 4
+    },
+    {
+      "id": "stacks_templates_docker_compose_production_docker_compose_postgres_environment",
+      "label": "environment",
+      "degree": 4
+    },
+    {
+      "id": "stacks_templates_docker_compose_production_docker_compose_services_redis",
+      "label": "redis",
+      "degree": 4
+    },
+    {
+      "id": "stacks_templates_docker_compose_production_docker_compose_app_depends_on",
+      "label": "depends_on",
+      "degree": 3
+    }
+  ],
+  "surprises": [],
+  "tokens": {
+    "input": 0,
+    "output": 0
+  }
+}

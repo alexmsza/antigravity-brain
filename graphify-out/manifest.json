@@ -1,0 +1,50 @@
+{
+  "models-sites/amplus-imoveis/template/CorporateRealEstatePage.tsx": {
+    "mtime": 1793152363.4415607,
+    "seen": 1793152645.5582438,
+    "ast_hash": "68b2245e818fa3c16cf3de2248d68b1b",
+    "semantic_hash": "68b2245e818fa3c16cf3de2248d68b1b"
+  },
+  "models-sites/ceo-boa-viagem/template/LuxuryClinicPage.tsx": {
+    "mtime": 1793152484.4245088,
+    "seen": 1793152645.5582438,
+    "ast_hash": "e8deb71ae70e819ddda654defb1dccf5",
+    "semantic_hash": "e8deb71ae70e819ddda654defb1dccf5"
+  },
+  "models-sites/flat-belavista/template/BeachFlatRentalPage.tsx": {
+    "mtime": 1793152404.879797,
+    "seen": 1793152645.5582438,
+    "ast_hash": "a99879ba831d130480b608e1cb342b5e",
+    "semantic_hash": "a99879ba831d130480b608e1cb342b5e"
+  },
+  "models-sites/pov-podcast/template/PodcastStudioPage.tsx": {
+    "mtime": 1793152444.3860896,
+    "seen": 1793152645.5582438,
+    "ast_hash": "4bf586a69d9f184df8ca42d13ba64895",
+    "semantic_hash": "4bf586a69d9f184df8ca42d13ba64895"
+  },
+  "stacks-templates/docker-compose-production/docker-compose.yml": {
+    "mtime": 1793152630.7879565,
+    "seen": 1793152645.5582438,
+    "ast_hash": "3e7604741dbe9481d0241e5615f79255",
+    "semantic_hash": "3e7604741dbe9481d0241e5615f79255"
+  },
+  "stacks-templates/nextjs15-tailwind-shadcn/package.json": {
+    "mtime": 1793152592.542023,
+    "seen": 1793152645.5582438,
+    "ast_hash": "bb092d3911422c8be35fd9eb301ba887",
+    "semantic_hash": "bb092d3911422c8be35fd9eb301ba887"
+  },
+  "stacks-templates/python-uv-fastapi/main.py": {
+    "mtime": 1793152622.795928,
+    "seen": 1793152645.5582438,
+    "ast_hash": "4c76ef1a1d3f7e063a651d093bcec84c",
+    "semantic_hash": "4c76ef1a1d3f7e063a651d093bcec84c"
+  },
+  "stacks-templates/python-uv-fastapi/pyproject.toml": {
+    "mtime": 1793152607.3992221,
+    "seen": 1793152645.5582438,
+    "ast_hash": "71a6ea334d48f8d168bdebd2d3b5ce53",
+    "semantic_hash": "71a6ea334d48f8d168bdebd2d3b5ce53"
+  }
+}
