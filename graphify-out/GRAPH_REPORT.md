@@ -1,17 +1,17 @@
 # Graph Report - antigravity-brain  (2026-10-28)
 
 ## Corpus Check
-- 35 files · ~14,806 words
+- 35 files · ~15,039 words
 - Verdict: corpus is large enough that graph structure adds value.
 - Unclassified: 2 file(s) not represented in the graph (top: (none) 1, .css 1)
 
 ## Summary
-- 258 nodes · 252 edges · 30 communities (27 shown, 3 thin omitted)
+- 259 nodes · 253 edges · 31 communities (28 shown, 3 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `fc58f046`
+- Built from commit: `f94e0233`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -41,14 +41,15 @@
 - 🧠 Antigravity Brain — Central Knowledge Vault & Engineering Hub
 - 🧭 Matriz de Sugestões Proativas & Gatilhos Operacionais
 - ⚡ Open Source Power Stack — Acervo de Tecnologias Emergentes & Repositórios de Alta Performance
-- 🏛️ As 6 Camadas de Habilidades
+- 🔄 Matriz de Adaptação: Claude Mode ➔ Antigravity (AGY / Gemini)
 - 🤖 Frameworks de Agentes Autônomos, Sandboxes & Execução de Código
 - 🕵️ Cibersegurança, OSINT & Inteligência Forense Digital
 - 🏗️ Stack Canônica de MVP de Baixo Custo (Zero-Waste Architecture)
 - 🚀 SaaS-Killers & Infraestrutura Auto-Hospedada (Custo R$ 0)
+- scripts
 
 ## God Nodes (most connected - your core abstractions)
-1. `🏛️ As 6 Camadas de Habilidades` - 7 edges
+1. `🔄 Matriz de Adaptação: Claude Mode ➔ Antigravity (AGY / Gemini)` - 7 edges
 2. `app` - 6 edges
 3. `postgres` - 6 edges
 4. `lucide-react` - 6 edges
@@ -65,11 +66,11 @@
 ## Import Cycles
 - None detected.
 
-## Communities (30 total, 3 thin omitted)
+## Communities (31 total, 3 thin omitted)
 
 ### Community 0 - "package.json"
-Cohesion: 0.07
-Nodes (40): class-variance-authority, clsx, next, postcss, @radix-ui/react-dialog, @radix-ui/react-dropdown-menu, @radix-ui/react-slot, react-dom (+32 more)
+Cohesion: 0.08
+Nodes (35): class-variance-authority, clsx, next, postcss, @radix-ui/react-dialog, @radix-ui/react-dropdown-menu, @radix-ui/react-slot, react-dom (+27 more)
 
 ### Community 1 - "lucide-react"
 Cohesion: 0.15
@@ -80,12 +81,12 @@ Cohesion: 0.09
 Nodes (18): 1. `db-enforcer` & PostgreSQL, 2. `prisma-cli` & Prisma ORM v7, 3. `supabase`, 🗄️ Skills: Backend, Banco de Dados & Infraestrutura, 1. `frontend-builder`, 2. `tailwind` (Tailwind CSS v4), 3. Catálogo de Inspiração & Microinterações: [UIverse.io](https://uiverse.io/), 🎨 Skills: Frontend, Design Systems & UI (+10 more)
 
 ### Community 3 - "postgres"
-Cohesion: 0.09
-Nodes (21): POSTGRES_DB, POSTGRES_PASSWORD, POSTGRES_USER, interval, retries, test, timeout, environment (+13 more)
+Cohesion: 0.15
+Nodes (13): POSTGRES_DB, POSTGRES_PASSWORD, POSTGRES_USER, interval, retries, test, timeout, environment (+5 more)
 
 ### Community 4 - "app"
-Cohesion: 0.20
-Nodes (10): build, depends_on, environment, ports, restart, postgres, redis, condition (+2 more)
+Cohesion: 0.11
+Nodes (18): build, depends_on, environment, ports, restart, postgres, redis, condition (+10 more)
 
 ### Community 5 - "🧠 Social Intelligence, Career-Ops & Open Source SaaS-Killers"
 Cohesion: 0.18
@@ -155,9 +156,9 @@ Nodes (3): 🧠 Antigravity Brain — Central Knowledge Vault & Engineering Hub,
 Cohesion: 0.29
 Nodes (6): 🤖 1. Agentes Autônomos, Sandboxing & Raciocínio de Código, ⚡ 2. Infraestrutura Local de IA, Hardware & LLMs Custo Zero, 🎬 3. Automação de Mídia, Vídeo, Áudio & Growth, 🌐 4. Engenharia Web, Segurança, Scrapers & Micro-SaaS, 📚 5. Repositórios de Aprendizado & Recursos Dev, ⚡ Open Source Power Stack — Acervo de Tecnologias Emergentes & Repositórios de Alta Performance
 
-### Community 25 - "🏛️ As 6 Camadas de Habilidades"
-Cohesion: 0.22
-Nodes (8): 🏛️ As 6 Camadas de Habilidades, Camada 1: Frontend & UI (Design Anti-Slop), Camada 2: Imagem, Gráficos & Vídeo, Camada 3: Produto, Interação & Código, Camada 4: Comportamento, Prompts & Raciocínio Humano, Camada 5: Avaliação, Testes & Segurança, Camada 6: Orquestração & Metaprompts, 🛠️ Framework Canônico de 42 Skills de IA & Engenharia de Prompts (6 Camadas)
+### Community 25 - "🔄 Matriz de Adaptação: Claude Mode ➔ Antigravity (AGY / Gemini)"
+Cohesion: 0.20
+Nodes (9): 🏛️ As 6 Camadas de Habilidades, Camada 1: Frontend & UI (Design Anti-Slop), Camada 2: Imagem, Gráficos & Vídeo, Camada 3: Produto, Interação & Código, Camada 4: Comportamento, Prompts & Raciocínio Humano, Camada 5: Avaliação, Testes & Segurança, Camada 6: Orquestração & Metaprompts, 🛠️ Framework Universal de 42 Skills de IA & Engenharia de Prompts (Antigravity & Claude) (+1 more)
 
 ### Community 26 - "🤖 Frameworks de Agentes Autônomos, Sandboxes & Execução de Código"
 Cohesion: 0.33
@@ -175,25 +176,29 @@ Nodes (4): 📋 Detalhamento dos Componentes & Custos, 🔒 Princípios de Produ
 Cohesion: 0.50
 Nodes (3): 💡 Heurística de Adoção Técnica, 📊 Matriz Comparativa Mestre, 🚀 SaaS-Killers & Infraestrutura Auto-Hospedada (Custo R$ 0)
 
+### Community 30 - "scripts"
+Cohesion: 0.40
+Nodes (5): scripts, build, dev, lint, start
+
 ## Knowledge Gaps
 - **1 isolated node(s):** `asza-fastapi-service`
-  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 160 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
+  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 161 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
 - **3 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
-- **Why does `services` connect `postgres` to `app`?**
+- **Why does `services` connect `app` to `postgres`?**
   _High betweenness centrality (0.010) - this node is a cross-community bridge._
 - **What connects `asza-fastapi-service` to the rest of the system?**
   _1 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `package.json` be split into smaller, more focused modules?**
-  _Cohesion score 0.06707317073170732 - nodes in this community are weakly interconnected._
+  _Cohesion score 0.07936507936507936 - nodes in this community are weakly interconnected._
 - **Why does `lucide-react` connect `lucide-react` to `package.json`?**
   _High betweenness centrality (0.009) - this node is a cross-community bridge._
 - **Should `🤖 Skills: Inteligência Artificial Local, Agentes & Automação` be split into smaller, more focused modules?**
   _Cohesion score 0.09090909090909091 - nodes in this community are weakly interconnected._
 - **Why does `react` connect `lucide-react` to `package.json`?**
   _High betweenness centrality (0.009) - this node is a cross-community bridge._
-- **Should `postgres` be split into smaller, more focused modules?**
-  _Cohesion score 0.09090909090909091 - nodes in this community are weakly interconnected._
+- **Should `app` be split into smaller, more focused modules?**
+  _Cohesion score 0.10526315789473684 - nodes in this community are weakly interconnected._

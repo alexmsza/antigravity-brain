@@ -48,9 +48,9 @@
     "semantic_hash": "71a6ea334d48f8d168bdebd2d3b5ce53"
   },
   "README.md": {
-    "mtime": 1793221186.4834948,
-    "seen": 1793221272.3860323,
-    "ast_hash": "cd77232dec2ec2ff1bdbe4f3c51ae9fb",
+    "mtime": 1793221997.2170787,
+    "seen": 1793222015.7810998,
+    "ast_hash": "04ac4cb99668ddb383fd6b94247c3818",
     "semantic_hash": ""
   },
   "context/antigravity-directives.md": {
@@ -66,9 +66,9 @@
     "semantic_hash": ""
   },
   "context/proactive-suggestion-matrix.md": {
-    "mtime": 1793221148.9902728,
-    "seen": 1793221272.3860323,
-    "ast_hash": "9ca9313c5cbfd251158bb355dcbdd3c3",
+    "mtime": 1793222007.126808,
+    "seen": 1793222015.7810998,
+    "ast_hash": "15f88fbea6357ab10fc3cd35f5c414e6",
     "semantic_hash": ""
   },
   "context/security-and-lgpd.md": {
@@ -132,9 +132,9 @@
     "semantic_hash": ""
   },
   "skills/README.md": {
-    "mtime": 1793221165.597656,
-    "seen": 1793221272.3860323,
-    "ast_hash": "a702e387c97af3960c406686becd0b50",
+    "mtime": 1793221989.621502,
+    "seen": 1793222015.7810998,
+    "ast_hash": "ae4d6feb8a3770682a1d7c12d288d7f6",
     "semantic_hash": ""
   },
   "skills/backend-and-databases.md": {
@@ -185,12 +185,6 @@
     "ast_hash": "0f1b161b3826695016e798a2824e9fa9",
     "semantic_hash": ""
   },
-  "skills/claude-42-skills-framework.md": {
-    "mtime": 1793221073.9097416,
-    "seen": 1793221272.3860323,
-    "ast_hash": "45faaac2bf53edc07593668150075f9b",
-    "semantic_hash": ""
-  },
   "skills/osint-and-security-intelligence.md": {
     "mtime": 1793221103.4876742,
     "seen": 1793221272.3860323,
@@ -207,6 +201,12 @@
     "mtime": 1793221117.8252816,
     "seen": 1793221272.3860323,
     "ast_hash": "5e2178430f86b00e1c82e3a9ea3afbe3",
+    "semantic_hash": ""
+  },
+  "skills/universal-42-skills-framework.md": {
+    "mtime": 1793221974.3478184,
+    "seen": 1793222015.7810998,
+    "ast_hash": "02a70d52bd2a7e43b12c189ea6111833",
     "semantic_hash": ""
   }
 }

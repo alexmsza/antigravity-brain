@@ -25,7 +25,7 @@ Este diretório cataloga todas as **Skills Especializadas** integradas ao Antigr
 - `graphify`: Memória semântica estrutural em grafos de conhecimento determinísticos (AST).
 - `saas-killers-catalog`: Catálogo mestre unificado de alternativas open source a ferramentas pagas (HeyGem, Presenton, Meetily, Vane, etc.).
 - `autonomous-agents-and-sandboxes`: Sandboxing (OpenSandbox Alibaba), Camofox Browser, ripwire, OmniRoute e meta-programação.
-- `claude-42-skills-framework`: Framework de 42 skills especializadas em 6 camadas de produto (anti-slop, I have ADHD, Book to Skill).
+- `universal-42-skills-framework`: Framework universal de 42 skills especializadas em 6 camadas de produto (anti-slop, I have ADHD, Book to Skill) adaptado para Gemini/AGY e Claude.
 - `ai-monetization-and-business-models`: Produtos e serviços de IA de alta margem (Claude Ads, Strix pentest, Vibe Trading, Fincept Terminal).
 - `osint-and-security-intelligence`: Investigação em fontes abertas (OSINT), PhoneIntel, Crucix, apk-reverse e análise forense.
 - `open-source-power-stack`: Acervo de tecnologias emergentes, agentes autônomos, Floci, MarkItDown, ripwire, WAHA e ferramentas de mídia.

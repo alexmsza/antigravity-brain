@@ -1,8 +1,9 @@
-# 🛠️ Framework Canônico de 42 Skills de IA & Engenharia de Prompts (6 Camadas)
+# 🛠️ Framework Universal de 42 Skills de IA & Engenharia de Prompts (Antigravity & Claude)
 
 > **Segundo Cérebro — Alex Souza**  
 > **Origem:** Acervo técnico do Notion (`🛠️ Framework de Habilidades de IA / Design / Sistema` + `Ferramentas e Projetos Open-Source`).  
-> **Objetivo:** Eliminar a estética e o tom genérico de IA ("AI slop") e dotar o assistente de habilidades especializadas por camadas de produto.
+> **Status:** Adaptado para execução dual e nativa em **Google Antigravity (AGY / Gemini)** e **Claude**.  
+> **Objetivo:** Eliminar a estética e o tom genérico de IA ("AI slop") e dotar o assistente de habilidades especializadas divididas em 6 camadas de produto.
 
 ---
 
@@ -19,6 +20,20 @@ flowchart TD
 
 ---
 
+## 🔄 Matriz de Adaptação: Claude Mode ➔ Antigravity (AGY / Gemini)
+
+| Skill Original (Modo Claude) | Adaptação para Antigravity (AGY / Gemini) | Mecânica de Execução no AGY |
+| :--- | :--- | :--- |
+| **`claude-instagram-skill`** | **`social-growth-agent`** | Análise multimodal nativa com Gemini (vídeo/áudio), roteiros audiovisuais cronometrados e engenharia reversa de hooks. |
+| **`career-ops / ai-job-search`** | **`career-ops-hunter`** | Scoring de 0 a 5, exclusão de vagas Senior/Staff, alinhamento ATS com keywords do Gupy e minutas para LinkedIn. |
+| **`claude-ads`** | **`ads-intelligence`** | Comandos e rotinas de auditoria de campanhas Meta/Google Ads, diagnóstico de vazamento de orçamento e matriz de criativos. |
+| **`no-ai-slop` & `i-have-adhd`** | **`anti-slop-executive-tone`** | Supressão estrita de 20+ clichês de IA, saudações robóticas e prolixidade; respostas diretas com alta densidade por token. |
+| **`book-to-skill`** | **`book-to-skill-engine`** | Modularização de livros em `chapters/cap-XX.md` carregados por Progressive Disclosure no `SKILL.md` (economia de 90% de contexto). |
+| **`strix`** | **`vibe-security-pentest`** | Auditoria de segurança em vibe-coding: detecção de SQL Injection, ausência de RLS no Supabase, IDOR e geração de patches. |
+| **`omniroute`** | **`model-routing-matrix`** | Roteamento dinâmico de modelos por esforço de raciocínio (Flash/Haiku para rápido; Sonnet/Argon para arquitetura pesada). |
+
+---
+
 ### Camada 1: Frontend & UI (Design Anti-Slop)
 1. **`frontend-design`**: Criação de interfaces web ricas com identidades únicas, evitando temas padrões sem personalidade.
 2. **`ui-ux-pro-max`**: Inteligência e arquitetura de telas baseadas em psicologia cognitiva e fluxo de usuários.
@@ -32,7 +47,7 @@ flowchart TD
 10. **`canvas-design`**: Composição visual programática e banners dinâmicos.
 
 ### Camada 2: Imagem, Gráficos & Vídeo
-11. **`gpt-image`**: Geração precisa de imagens via prompts fotográficos detalhados.
+11. **`gpt-image` / `image-generation-template`**: Geração precisa de imagens via prompts fotográficos detalhados.
 12. **`image`**: Produção de imagens publicitárias e peças de marketing contextualizadas.
 13. **`image-enhancer`**: Upscaling de resolução, realce de bordas e redução de ruído.
 14. **`brand-guidelines`**: Aplicação rigorosa de identidade corporativa (logos, cores primárias, tokens).
@@ -43,7 +58,7 @@ flowchart TD
 
 ### Camada 3: Produto, Interação & Código
 19. **`api-designer`**: Modelagem de contratos RESTful e GraphQL tipados com validação Zod.
-20. **`db-architect`**: Modelagem relacional para PostgreSQL/Supabase com RLS e índices performáticos.
+20. **`db-architect` / `db-enforcer`**: Modelagem relacional para PostgreSQL/Supabase com RLS e índices performáticos.
 21. **`state-machine`**: Máquinas de estado determinísticas com XState para evitar bugs de transição na UI.
 22. **`component-curator`**: Seleção de componentes do UIverse e Radix UI adaptados ao projeto.
 23. **`performance-profiler`**: Otimização de Core Web Vitals (LCP < 2.5s, CLS < 0.1, INP < 200ms).
@@ -60,7 +75,7 @@ flowchart TD
 32. **`concise-executive`**: Comunicação ultra-concisa com alta densidade de informação por linha.
 
 ### Camada 5: Avaliação, Testes & Segurança
-33. **`strix`**: Agente autônomo de pentest para aplicações vibe-coded que detecta vulnerabilidades reais e gera patches.
+33. **`vibe-security-pentest` (ex-Strix)**: Pentest automatizado em vibe-coding para encontrar falhas de segurança e entregar correções.
 34. **`unit-test-synthesizer`**: Criação de baterias de testes unitários cobrindo casos extremos (edge cases).
 35. **`a11y-auditor`**: Verificação de conformidade com WCAG 2.1 AA (contraste de cor, foco por teclado).
 36. **`security-scanner`**: Varredura de injeções SQL, XSS, vazamento de credenciais e integridade de dependências.

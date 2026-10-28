@@ -31,7 +31,7 @@ antigravity-brain/
 │   ├── README.md                    # Guia de roteamento de skills
 │   ├── saas-killers-catalog.md      # Catálogo mestre de 25+ alternativas open source a SaaS pagos
 │   ├── autonomous-agents-and-sandboxes.md # Alibaba OpenSandbox, Camofox Browser, ripwire, OmniRoute
-│   ├── claude-42-skills-framework.md # 42 skills especializadas em 6 camadas (anti-slop, I have ADHD)
+│   ├── universal-42-skills-framework.md # 42 skills especializadas em 6 camadas para Gemini/AGY e Claude
 │   ├── ai-monetization-and-business-models.md # Claude Ads, Strix pentest, Vibe Trading, Fincept
 │   ├── osint-and-security-intelligence.md # PhoneIntel, Crucix, apk-reverse e inteligência forense
 │   ├── frontend-and-ui.md           # Next.js 15, Tailwind v4, shadcn/ui, UIverse
