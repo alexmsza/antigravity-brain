@@ -48,9 +48,9 @@
     "semantic_hash": "71a6ea334d48f8d168bdebd2d3b5ce53"
   },
   "README.md": {
-    "mtime": 1793218749.855934,
-    "seen": 1793218790.4642408,
-    "ast_hash": "22eba33e67758e563e2cc0d429dfb40b",
+    "mtime": 1793221186.4834948,
+    "seen": 1793221272.3860323,
+    "ast_hash": "cd77232dec2ec2ff1bdbe4f3c51ae9fb",
     "semantic_hash": ""
   },
   "context/antigravity-directives.md": {
@@ -66,9 +66,9 @@
     "semantic_hash": ""
   },
   "context/proactive-suggestion-matrix.md": {
-    "mtime": 1793219842.4692216,
-    "seen": 1793219878.402049,
-    "ast_hash": "0ed8c6de72941c03f9f6ad29a50d9022",
+    "mtime": 1793221148.9902728,
+    "seen": 1793221272.3860323,
+    "ast_hash": "9ca9313c5cbfd251158bb355dcbdd3c3",
     "semantic_hash": ""
   },
   "context/security-and-lgpd.md": {
@@ -132,9 +132,9 @@
     "semantic_hash": ""
   },
   "skills/README.md": {
-    "mtime": 1793219851.143841,
-    "seen": 1793219878.402049,
-    "ast_hash": "3021282ec6f2824244a74ae613fac18c",
+    "mtime": 1793221165.597656,
+    "seen": 1793221272.3860323,
+    "ast_hash": "a702e387c97af3960c406686becd0b50",
     "semantic_hash": ""
   },
   "skills/backend-and-databases.md": {
@@ -171,6 +171,42 @@
     "mtime": 1793219818.8137689,
     "seen": 1793219878.402049,
     "ast_hash": "b31459b2df406973ccd3f157e30cf642",
+    "semantic_hash": ""
+  },
+  "skills/ai-monetization-and-business-models.md": {
+    "mtime": 1793221091.8798776,
+    "seen": 1793221272.3860323,
+    "ast_hash": "ab1a36f5832e25d78773695963be9474",
+    "semantic_hash": ""
+  },
+  "skills/autonomous-agents-and-sandboxes.md": {
+    "mtime": 1793221054.8091574,
+    "seen": 1793221272.3860323,
+    "ast_hash": "0f1b161b3826695016e798a2824e9fa9",
+    "semantic_hash": ""
+  },
+  "skills/claude-42-skills-framework.md": {
+    "mtime": 1793221073.9097416,
+    "seen": 1793221272.3860323,
+    "ast_hash": "45faaac2bf53edc07593668150075f9b",
+    "semantic_hash": ""
+  },
+  "skills/osint-and-security-intelligence.md": {
+    "mtime": 1793221103.4876742,
+    "seen": 1793221272.3860323,
+    "ast_hash": "65437eed075196e9d52665e355014b32",
+    "semantic_hash": ""
+  },
+  "skills/saas-killers-catalog.md": {
+    "mtime": 1793221040.9490747,
+    "seen": 1793221272.3860323,
+    "ast_hash": "b5a7bf2581fad8d32c5f08007da7c29e",
+    "semantic_hash": ""
+  },
+  "stacks-templates/zero-cost-mvp-stack.md": {
+    "mtime": 1793221117.8252816,
+    "seen": 1793221272.3860323,
+    "ast_hash": "5e2178430f86b00e1c82e3a9ea3afbe3",
     "semantic_hash": ""
   }
 }

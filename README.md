@@ -29,9 +29,15 @@ antigravity-brain/
 │
 ├── skills/                          # Matriz de skills especializadas de engenharia e IA
 │   ├── README.md                    # Guia de roteamento de skills
+│   ├── saas-killers-catalog.md      # Catálogo mestre de 25+ alternativas open source a SaaS pagos
+│   ├── autonomous-agents-and-sandboxes.md # Alibaba OpenSandbox, Camofox Browser, ripwire, OmniRoute
+│   ├── claude-42-skills-framework.md # 42 skills especializadas em 6 camadas (anti-slop, I have ADHD)
+│   ├── ai-monetization-and-business-models.md # Claude Ads, Strix pentest, Vibe Trading, Fincept
+│   ├── osint-and-security-intelligence.md # PhoneIntel, Crucix, apk-reverse e inteligência forense
 │   ├── frontend-and-ui.md           # Next.js 15, Tailwind v4, shadcn/ui, UIverse
 │   ├── ux-cognitive-laws.md         # As 20 Leis de UX e Design Cognitivo para Interfaces
 │   ├── social-intelligence-and-career-ops.md # Career-Ops, Turnitout, SaaS-killers e Instagram Skill
+│   ├── open-source-power-stack.md   # Floci, MarkItDown, ripwire, WAHA e ferramentas de mídia
 │   ├── backend-and-databases.md     # Prisma ORM, Supabase, PostgreSQL, DB Enforcer
 │   ├── data-and-ml.md               # BigQuery, dbt, Dataform, GCP Pipelines
 │   ├── science-and-bio.md           # AlphaFold, ChEMBL, PDB, UniProt, BLAST
@@ -45,6 +51,7 @@ antigravity-brain/
 │   └── ui-component-catalogs.md     # Padrões visuais inspirados no UIverse.io
 │
 ├── stacks-templates/                # Blueprints prontos para inicialização de projetos
+│   ├── zero-cost-mvp-stack.md       # Stack canônica de MVP de baixo custo (~$20/mês fixo)
 │   ├── nextjs15-tailwind-shadcn/    # Boilerplate Next.js 15 App Router + Tailwind v4 + shadcn/ui
 │   ├── python-uv-fastapi/           # Boilerplate Python moderno gerenciado via uv
 │   └── docker-compose-production/   # Infraestrutura containerizada (Postgres, Redis, Nginx)

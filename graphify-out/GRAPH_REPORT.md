@@ -1,17 +1,17 @@
 # Graph Report - antigravity-brain  (2026-10-28)
 
 ## Corpus Check
-- 29 files · ~10,830 words
+- 35 files · ~14,806 words
 - Verdict: corpus is large enough that graph structure adds value.
 - Unclassified: 2 file(s) not represented in the graph (top: (none) 1, .css 1)
 
 ## Summary
-- 217 nodes · 217 edges · 25 communities (22 shown, 3 thin omitted)
+- 258 nodes · 252 edges · 30 communities (27 shown, 3 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `f76851ec`
+- Built from commit: `fc58f046`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -23,7 +23,7 @@
 - app
 - 🧠 Social Intelligence, Career-Ops & Open Source SaaS-Killers
 - main.py
-- scripts
+- 🚀 2. Micro-SaaS & Ferramentas Verticais
 - asza-fastapi-service
 - 🏢 Modelo 01: AMPLUS Imóveis (`amplusimoveis.com.br`)
 - 💎 Modelo 04: CEO Boa Viagem (`ceoboaviagem.com.br`)
@@ -41,18 +41,23 @@
 - 🧠 Antigravity Brain — Central Knowledge Vault & Engineering Hub
 - 🧭 Matriz de Sugestões Proativas & Gatilhos Operacionais
 - ⚡ Open Source Power Stack — Acervo de Tecnologias Emergentes & Repositórios de Alta Performance
+- 🏛️ As 6 Camadas de Habilidades
+- 🤖 Frameworks de Agentes Autônomos, Sandboxes & Execução de Código
+- 🕵️ Cibersegurança, OSINT & Inteligência Forense Digital
+- 🏗️ Stack Canônica de MVP de Baixo Custo (Zero-Waste Architecture)
+- 🚀 SaaS-Killers & Infraestrutura Auto-Hospedada (Custo R$ 0)
 
 ## God Nodes (most connected - your core abstractions)
-1. `app` - 6 edges
-2. `postgres` - 6 edges
-3. `lucide-react` - 6 edges
-4. `react` - 6 edges
-5. `⚡ Open Source Power Stack — Acervo de Tecnologias Emergentes & Repositórios de Alta Performance` - 6 edges
-6. `healthcheck` - 5 edges
-7. `scripts` - 5 edges
-8. `🤖 Skills: Inteligência Artificial Local, Agentes & Automação` - 5 edges
-9. `🧠 Social Intelligence, Career-Ops & Open Source SaaS-Killers` - 5 edges
-10. `1. Princípios Fundamentais & Aplicação Direta em Código` - 5 edges
+1. `🏛️ As 6 Camadas de Habilidades` - 7 edges
+2. `app` - 6 edges
+3. `postgres` - 6 edges
+4. `lucide-react` - 6 edges
+5. `react` - 6 edges
+6. `🚀 2. Micro-SaaS & Ferramentas Verticais` - 6 edges
+7. `⚡ Open Source Power Stack — Acervo de Tecnologias Emergentes & Repositórios de Alta Performance` - 6 edges
+8. `healthcheck` - 5 edges
+9. `scripts` - 5 edges
+10. `🤖 Frameworks de Agentes Autônomos, Sandboxes & Execução de Código` - 5 edges
 
 ## Surprising Connections (you probably didn't know these)
 - None detected - all connections are within the same source files.
@@ -60,11 +65,11 @@
 ## Import Cycles
 - None detected.
 
-## Communities (25 total, 3 thin omitted)
+## Communities (30 total, 3 thin omitted)
 
 ### Community 0 - "package.json"
-Cohesion: 0.08
-Nodes (35): class-variance-authority, clsx, next, postcss, @radix-ui/react-dialog, @radix-ui/react-dropdown-menu, @radix-ui/react-slot, react-dom (+27 more)
+Cohesion: 0.07
+Nodes (40): class-variance-authority, clsx, next, postcss, @radix-ui/react-dialog, @radix-ui/react-dropdown-menu, @radix-ui/react-slot, react-dom (+32 more)
 
 ### Community 1 - "lucide-react"
 Cohesion: 0.15
@@ -75,20 +80,20 @@ Cohesion: 0.09
 Nodes (18): 1. `db-enforcer` & PostgreSQL, 2. `prisma-cli` & Prisma ORM v7, 3. `supabase`, 🗄️ Skills: Backend, Banco de Dados & Infraestrutura, 1. `frontend-builder`, 2. `tailwind` (Tailwind CSS v4), 3. Catálogo de Inspiração & Microinterações: [UIverse.io](https://uiverse.io/), 🎨 Skills: Frontend, Design Systems & UI (+10 more)
 
 ### Community 3 - "postgres"
-Cohesion: 0.15
-Nodes (13): POSTGRES_DB, POSTGRES_PASSWORD, POSTGRES_USER, interval, retries, test, timeout, environment (+5 more)
+Cohesion: 0.09
+Nodes (21): POSTGRES_DB, POSTGRES_PASSWORD, POSTGRES_USER, interval, retries, test, timeout, environment (+13 more)
 
 ### Community 4 - "app"
-Cohesion: 0.11
-Nodes (18): build, depends_on, environment, ports, restart, postgres, redis, condition (+10 more)
+Cohesion: 0.20
+Nodes (10): build, depends_on, environment, ports, restart, postgres, redis, condition (+2 more)
 
 ### Community 5 - "🧠 Social Intelligence, Career-Ops & Open Source SaaS-Killers"
 Cohesion: 0.18
 Nodes (10): 1.1. Arquitetura Operacional, 1.2. Heurística de Scoring (0 a 5), 1.3. Regra de Aplicação Prática, 1. Career-Ops: Caçador Autônomo de Vagas & Scoring de Oportunidades, 2.1. Princípio de Funcionamento, 2.2. Regra de Aplicação Prática, 2. Turnitout-Humanizer: Higienização Determinística de Arquivos & Código, 3. Matriz dos 8 Repositórios Open Source SaaS-Killers (Custo R$ 0) (+2 more)
 
-### Community 7 - "scripts"
-Cohesion: 0.40
-Nodes (5): scripts, build, dev, lint, start
+### Community 7 - "🚀 2. Micro-SaaS & Ferramentas Verticais"
+Cohesion: 0.17
+Nodes (11): 🎯 1. Serviços de Consultoria de Alta Margem (Productized Services), 🚀 2. Micro-SaaS & Ferramentas Verticais, A. **Claude Ads — Agência de Tráfego Pago & Auditoria com IA**, B. **Strix — Auditoria de Segurança & Pentest em Aplicações Vibe-Coded**, C. **Career-Ops / AI Job Search — Caçador Autônomo de Vagas**, D. **Fincept Terminal — Inteligência de Mercado Financeiro & Cripto**, E. **Vibe Trading (`vibe-trading`) — Agentes Autônomos de Mercado**, F. **HyperFrames — Criação de Vídeos Dinâmicos via Código** (+3 more)
 
 ### Community 9 - "🏢 Modelo 01: AMPLUS Imóveis (`amplusimoveis.com.br`)"
 Cohesion: 0.29
@@ -150,25 +155,45 @@ Nodes (3): 🧠 Antigravity Brain — Central Knowledge Vault & Engineering Hub,
 Cohesion: 0.29
 Nodes (6): 🤖 1. Agentes Autônomos, Sandboxing & Raciocínio de Código, ⚡ 2. Infraestrutura Local de IA, Hardware & LLMs Custo Zero, 🎬 3. Automação de Mídia, Vídeo, Áudio & Growth, 🌐 4. Engenharia Web, Segurança, Scrapers & Micro-SaaS, 📚 5. Repositórios de Aprendizado & Recursos Dev, ⚡ Open Source Power Stack — Acervo de Tecnologias Emergentes & Repositórios de Alta Performance
 
+### Community 25 - "🏛️ As 6 Camadas de Habilidades"
+Cohesion: 0.22
+Nodes (8): 🏛️ As 6 Camadas de Habilidades, Camada 1: Frontend & UI (Design Anti-Slop), Camada 2: Imagem, Gráficos & Vídeo, Camada 3: Produto, Interação & Código, Camada 4: Comportamento, Prompts & Raciocínio Humano, Camada 5: Avaliação, Testes & Segurança, Camada 6: Orquestração & Metaprompts, 🛠️ Framework Canônico de 42 Skills de IA & Engenharia de Prompts (6 Camadas)
+
+### Community 26 - "🤖 Frameworks de Agentes Autônomos, Sandboxes & Execução de Código"
+Cohesion: 0.33
+Nodes (5): 🏗️ 1. Mapeamento & Economia de Contexto (Zero Token Waste), 🛡️ 2. Sandboxing & Isolamento de Execução, 🧠 3. Roteamento de Modelos & Meta-Programação, 🤖 Frameworks de Agentes Autônomos, Sandboxes & Execução de Código, 🎯 Regras Operacionais para Antigravity
+
+### Community 27 - "🕵️ Cibersegurança, OSINT & Inteligência Forense Digital"
+Cohesion: 0.40
+Nodes (4): 🔍 1. Investigação em Fontes Abertas (OSINT), 🛡️ 2. Navegação Oculta & Evasão de Bots, 🔒 3. Análise de Binários & Pentest Automatizado, 🕵️ Cibersegurança, OSINT & Inteligência Forense Digital
+
+### Community 28 - "🏗️ Stack Canônica de MVP de Baixo Custo (Zero-Waste Architecture)"
+Cohesion: 0.40
+Nodes (4): 📋 Detalhamento dos Componentes & Custos, 🔒 Princípios de Produção Obrigatórios, 🏗️ Stack Canônica de MVP de Baixo Custo (Zero-Waste Architecture), 🏛️ Topologia da Arquitetura
+
+### Community 29 - "🚀 SaaS-Killers & Infraestrutura Auto-Hospedada (Custo R$ 0)"
+Cohesion: 0.50
+Nodes (3): 💡 Heurística de Adoção Técnica, 📊 Matriz Comparativa Mestre, 🚀 SaaS-Killers & Infraestrutura Auto-Hospedada (Custo R$ 0)
+
 ## Knowledge Gaps
 - **1 isolated node(s):** `asza-fastapi-service`
-  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 128 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
+  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 160 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
 - **3 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
-- **Why does `services` connect `app` to `postgres`?**
-  _High betweenness centrality (0.014) - this node is a cross-community bridge._
+- **Why does `services` connect `postgres` to `app`?**
+  _High betweenness centrality (0.010) - this node is a cross-community bridge._
 - **What connects `asza-fastapi-service` to the rest of the system?**
   _1 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `package.json` be split into smaller, more focused modules?**
-  _Cohesion score 0.07936507936507936 - nodes in this community are weakly interconnected._
+  _Cohesion score 0.06707317073170732 - nodes in this community are weakly interconnected._
 - **Why does `lucide-react` connect `lucide-react` to `package.json`?**
-  _High betweenness centrality (0.013) - this node is a cross-community bridge._
+  _High betweenness centrality (0.009) - this node is a cross-community bridge._
 - **Should `🤖 Skills: Inteligência Artificial Local, Agentes & Automação` be split into smaller, more focused modules?**
   _Cohesion score 0.09090909090909091 - nodes in this community are weakly interconnected._
 - **Why does `react` connect `lucide-react` to `package.json`?**
-  _High betweenness centrality (0.013) - this node is a cross-community bridge._
-- **Should `app` be split into smaller, more focused modules?**
-  _Cohesion score 0.10526315789473684 - nodes in this community are weakly interconnected._
+  _High betweenness centrality (0.009) - this node is a cross-community bridge._
+- **Should `postgres` be split into smaller, more focused modules?**
+  _Cohesion score 0.09090909090909091 - nodes in this community are weakly interconnected._

@@ -23,6 +23,11 @@ Este diretório cataloga todas as **Skills Especializadas** integradas ao Antigr
 
 ### 3. [Inteligência Artificial Local, Agentes & Automação](local-ai-and-agents.md)
 - `graphify`: Memória semântica estrutural em grafos de conhecimento determinísticos (AST).
+- `saas-killers-catalog`: Catálogo mestre unificado de alternativas open source a ferramentas pagas (HeyGem, Presenton, Meetily, Vane, etc.).
+- `autonomous-agents-and-sandboxes`: Sandboxing (OpenSandbox Alibaba), Camofox Browser, ripwire, OmniRoute e meta-programação.
+- `claude-42-skills-framework`: Framework de 42 skills especializadas em 6 camadas de produto (anti-slop, I have ADHD, Book to Skill).
+- `ai-monetization-and-business-models`: Produtos e serviços de IA de alta margem (Claude Ads, Strix pentest, Vibe Trading, Fincept Terminal).
+- `osint-and-security-intelligence`: Investigação em fontes abertas (OSINT), PhoneIntel, Crucix, apk-reverse e análise forense.
 - `open-source-power-stack`: Acervo de tecnologias emergentes, agentes autônomos, Floci, MarkItDown, ripwire, WAHA e ferramentas de mídia.
 - `social-intelligence-and-career-ops`: Heurística Career-Ops, Claude Instagram Skill, Turnitout-Humanizer e matriz SaaS-Killers.
 - `ux-cognitive-laws`: As 20 Leis Cognitivas de UX de Isaque Paiva aplicadas a produtos e interfaces.
