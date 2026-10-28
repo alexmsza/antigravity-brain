@@ -66,9 +66,9 @@
     "semantic_hash": ""
   },
   "context/proactive-suggestion-matrix.md": {
-    "mtime": 1793218731.5866232,
-    "seen": 1793218790.4642408,
-    "ast_hash": "71df28e70ac7203044d20890243971f4",
+    "mtime": 1793219842.4692216,
+    "seen": 1793219878.402049,
+    "ast_hash": "0ed8c6de72941c03f9f6ad29a50d9022",
     "semantic_hash": ""
   },
   "context/security-and-lgpd.md": {
@@ -132,9 +132,9 @@
     "semantic_hash": ""
   },
   "skills/README.md": {
-    "mtime": 1793152533.8525448,
-    "seen": 1793218790.4642408,
-    "ast_hash": "e850dfbf0e08357460cbd5c3f88ad699",
+    "mtime": 1793219851.143841,
+    "seen": 1793219878.402049,
+    "ast_hash": "3021282ec6f2824244a74ae613fac18c",
     "semantic_hash": ""
   },
   "skills/backend-and-databases.md": {
@@ -165,6 +165,12 @@
     "mtime": 1793218699.489529,
     "seen": 1793218790.4642408,
     "ast_hash": "8ed22e19adb0ed11a6b5bf5228767f41",
+    "semantic_hash": ""
+  },
+  "skills/open-source-power-stack.md": {
+    "mtime": 1793219818.8137689,
+    "seen": 1793219878.402049,
+    "ast_hash": "b31459b2df406973ccd3f157e30cf642",
     "semantic_hash": ""
   }
 }

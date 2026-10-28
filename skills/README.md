@@ -23,6 +23,9 @@ Este diretório cataloga todas as **Skills Especializadas** integradas ao Antigr
 
 ### 3. [Inteligência Artificial Local, Agentes & Automação](local-ai-and-agents.md)
 - `graphify`: Memória semântica estrutural em grafos de conhecimento determinísticos (AST).
+- `open-source-power-stack`: Acervo de tecnologias emergentes, agentes autônomos, Floci, MarkItDown, ripwire, WAHA e ferramentas de mídia.
+- `social-intelligence-and-career-ops`: Heurística Career-Ops, Claude Instagram Skill, Turnitout-Humanizer e matriz SaaS-Killers.
+- `ux-cognitive-laws`: As 20 Leis Cognitivas de UX de Isaque Paiva aplicadas a produtos e interfaces.
 - `aszadev_agy_offload`: Sidecar local para economia de tokens do Antigravity.
 - `laya_decision_engine`: Motor local de triagem rápida e decisões em milissegundos via ONNX.
 - `kaggle_cloud_compute`: Orquestrador de computação pesada gratuita em nuvem (GPUs T4 e TPUs).

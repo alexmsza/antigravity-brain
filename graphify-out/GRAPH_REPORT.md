@@ -1,17 +1,17 @@
 # Graph Report - antigravity-brain  (2026-10-28)
 
 ## Corpus Check
-- 28 files · ~9,328 words
+- 29 files · ~10,830 words
 - Verdict: corpus is large enough that graph structure adds value.
 - Unclassified: 2 file(s) not represented in the graph (top: (none) 1, .css 1)
 
 ## Summary
-- 210 nodes · 211 edges · 24 communities (21 shown, 3 thin omitted)
+- 217 nodes · 217 edges · 25 communities (22 shown, 3 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `f6de9d8f`
+- Built from commit: `f76851ec`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -40,18 +40,19 @@
 - 🔌 Catálogo Mestre de Servidores MCP (Model Context Protocol)
 - 🧠 Antigravity Brain — Central Knowledge Vault & Engineering Hub
 - 🧭 Matriz de Sugestões Proativas & Gatilhos Operacionais
+- ⚡ Open Source Power Stack — Acervo de Tecnologias Emergentes & Repositórios de Alta Performance
 
 ## God Nodes (most connected - your core abstractions)
 1. `app` - 6 edges
 2. `postgres` - 6 edges
 3. `lucide-react` - 6 edges
 4. `react` - 6 edges
-5. `healthcheck` - 5 edges
-6. `scripts` - 5 edges
-7. `🤖 Skills: Inteligência Artificial Local, Agentes & Automação` - 5 edges
-8. `🧠 Social Intelligence, Career-Ops & Open Source SaaS-Killers` - 5 edges
-9. `1. Princípios Fundamentais & Aplicação Direta em Código` - 5 edges
-10. `services` - 4 edges
+5. `⚡ Open Source Power Stack — Acervo de Tecnologias Emergentes & Repositórios de Alta Performance` - 6 edges
+6. `healthcheck` - 5 edges
+7. `scripts` - 5 edges
+8. `🤖 Skills: Inteligência Artificial Local, Agentes & Automação` - 5 edges
+9. `🧠 Social Intelligence, Career-Ops & Open Source SaaS-Killers` - 5 edges
+10. `1. Princípios Fundamentais & Aplicação Direta em Código` - 5 edges
 
 ## Surprising Connections (you probably didn't know these)
 - None detected - all connections are within the same source files.
@@ -59,7 +60,7 @@
 ## Import Cycles
 - None detected.
 
-## Communities (24 total, 3 thin omitted)
+## Communities (25 total, 3 thin omitted)
 
 ### Community 0 - "package.json"
 Cohesion: 0.08
@@ -145,25 +146,29 @@ Nodes (3): 🔌 Catálogo Mestre de Servidores MCP (Model Context Protocol), �
 Cohesion: 0.50
 Nodes (3): 🧠 Antigravity Brain — Central Knowledge Vault & Engineering Hub, 🗂️ Arquitetura do Repositório, 🚀 Como Navegar e Consultar
 
+### Community 24 - "⚡ Open Source Power Stack — Acervo de Tecnologias Emergentes & Repositórios de Alta Performance"
+Cohesion: 0.29
+Nodes (6): 🤖 1. Agentes Autônomos, Sandboxing & Raciocínio de Código, ⚡ 2. Infraestrutura Local de IA, Hardware & LLMs Custo Zero, 🎬 3. Automação de Mídia, Vídeo, Áudio & Growth, 🌐 4. Engenharia Web, Segurança, Scrapers & Micro-SaaS, 📚 5. Repositórios de Aprendizado & Recursos Dev, ⚡ Open Source Power Stack — Acervo de Tecnologias Emergentes & Repositórios de Alta Performance
+
 ## Knowledge Gaps
 - **1 isolated node(s):** `asza-fastapi-service`
-  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 122 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
+  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 128 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
 - **3 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
 - **Why does `services` connect `app` to `postgres`?**
-  _High betweenness centrality (0.015) - this node is a cross-community bridge._
+  _High betweenness centrality (0.014) - this node is a cross-community bridge._
 - **What connects `asza-fastapi-service` to the rest of the system?**
   _1 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `package.json` be split into smaller, more focused modules?**
   _Cohesion score 0.07936507936507936 - nodes in this community are weakly interconnected._
 - **Why does `lucide-react` connect `lucide-react` to `package.json`?**
-  _High betweenness centrality (0.014) - this node is a cross-community bridge._
+  _High betweenness centrality (0.013) - this node is a cross-community bridge._
 - **Should `🤖 Skills: Inteligência Artificial Local, Agentes & Automação` be split into smaller, more focused modules?**
   _Cohesion score 0.09090909090909091 - nodes in this community are weakly interconnected._
 - **Why does `react` connect `lucide-react` to `package.json`?**
-  _High betweenness centrality (0.014) - this node is a cross-community bridge._
+  _High betweenness centrality (0.013) - this node is a cross-community bridge._
 - **Should `app` be split into smaller, more focused modules?**
   _Cohesion score 0.10526315789473684 - nodes in this community are weakly interconnected._
