@@ -70,3 +70,24 @@ Ao contrário de ferramentas que usam outra IA para reescrever texto (gerando al
 Baseado nas implementações de Igor Henrique (`@igao.ia`):
 1. **Engenharia Reversa de Reels Virais:** Analisar os ganchos (hooks de 3 segundos), a retenção intermediária e o CTA final de vídeos com alta tração técnica para transformá-los em roteiros autorais da Consultoria Sousza e dos projetos de Alex Souza.
 2. **Moderação Human-in-the-Loop:** Rascunhar respostas a comentários e DMs técnicas, deixando sempre a aprovação final para Alex Souza.
+
+---
+
+## 5. Tríade de Engenharia de Conteúdo, Vídeo-as-Code & Análise Multimodal (AGY + Plugins Nativos + Kaggle GPU)
+
+Integrada a partir das referências de `@marcondes.ai` (`DezlG1SsKGv`), `@viniciusguimaraes.ia` (`Deb1fwSznE2`) e `@mateus.curta.ia` (`De6kaTbxaco`), convertida nativamente para o Antigravity CLI (`agy plugin install`) e espelhada em `~/.gemini/config/skills/`:
+
+### 5.1. Suíte dos 9 Robôs de Social Media (`sergebulaev/instagram-skills` + `instagram-content-engine`)
+- **Plugin & Skills Instaladas:** `ig-hook-extractor` (10 fórmulas canônicas), `ig-caption-writer`, `ig-carousel-planner` (slide a slide), `ig-hashtag-strategist` (regra das 5 hashtags cirúrgicas), `ig-humanizer` (remoção de vícios de IA), `ig-content-planner` (calendário semanal com janelas de horário), `ig-audience-insights` (leitura real do nicho ponderando engajamento por seguidores via Apify), `ig-profile-optimizer` e `ig-repurposer`.
+- **Gatekeeper Inegociável:** Aprovação humana prévia obrigatória de Alex Souza antes de qualquer publicação.
+
+### 5.2. Reels Ilimitados em Código (`heygen-com/hyperframes` + `code-reels-hyperframes`)
+- **Plugin & Skills Instaladas:** `hyperframes`, `hyperframes-cli`, `hyperframes-registry` (~450 componentes), `media-use`, `figma`, `remotion-to-hyperframes` e `slideshow`.
+- **Mecanismo:** Criação de Reels verticais (`1080x1920`, 30/60fps) em HTML/CSS + GSAP Timeline renderizados localmente quadro a quadro via Chromium headless + FFmpeg (`npx hyperframes render`), com **custo zero de créditos de IA de vídeo**.
+
+### 5.3. Olhos Multimodais para Vídeos (`bradautomates/claude-video` `/watch` + `video-watch`)
+- **Plugin & Runner AGY:** Skill `watch` + `video-watch` (`scripts/watch.py` via `uv run`).
+- **Mecanismo:** Baixa o vídeo (`yt-dlp`), extrai quadros-chave nas mudanças de cena (`ffmpeg` scene detection + foco nos 3 primeiros segundos de gancho), decodifica o áudio via `ffmpeg` em memória e transcreve com `faster-whisper` local, gerando um `manifest.md` sincronizado cena por cena.
+
+### 5.4. Regra Mandatória de Offload para o Kaggle Cloud Compute (`kaggle_cloud_compute`)
+- Sempre que qualquer uma dessas skills exigir processamento pesado (transcrição de vídeos > 10 min ou lotes de Reels com `Whisper Large-v3`, síntese de voz neural pesada, OCR/visão em lote com `Qwen2-VL`/`Florence-2` ou geração de embeddings), **descarregar prioritariamente para as 2x GPUs NVIDIA T4 (32 GB VRAM) gratuitas do Kaggle (`kaggle kernels push`)**, preservando 100% da CPU/RAM local.

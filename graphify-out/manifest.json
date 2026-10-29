@@ -132,9 +132,9 @@
     "semantic_hash": ""
   },
   "skills/README.md": {
-    "mtime": 1793222482.7633426,
-    "seen": 1793222510.0964062,
-    "ast_hash": "ca0578b7073ac3c2cdfb7db73ff5c14a",
+    "mtime": 1793234540.8034885,
+    "seen": 1793234580.1501591,
+    "ast_hash": "3c3221c5e97e9f97b95fe1027619c2fb",
     "semantic_hash": ""
   },
   "skills/backend-and-databases.md": {
@@ -150,15 +150,15 @@
     "semantic_hash": ""
   },
   "skills/local-ai-and-agents.md": {
-    "mtime": 1793152560.3555899,
-    "seen": 1793218790.4642408,
-    "ast_hash": "da7d580288764d9e1ce628ba867eefcf",
+    "mtime": 1793234539.2023723,
+    "seen": 1793234580.1501591,
+    "ast_hash": "5f962ab8d4a69e829f2a2e3fa5da635e",
     "semantic_hash": ""
   },
   "skills/social-intelligence-and-career-ops.md": {
-    "mtime": 1793218673.970018,
-    "seen": 1793218790.4642408,
-    "ast_hash": "cc88ea7fef59d0c973fe3a850d725c4d",
+    "mtime": 1793234537.152622,
+    "seen": 1793234580.1501591,
+    "ast_hash": "95ab8fc4de22956b90d49e95a809856f",
     "semantic_hash": ""
   },
   "skills/ux-cognitive-laws.md": {
@@ -273,6 +273,708 @@
     "mtime": 1793223012.1885188,
     "seen": 1793223019.8834398,
     "ast_hash": "012265301df319070fd48081c8fc1159",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/video-watch/scripts/watch.py": {
+    "mtime": 1793233602.538197,
+    "seen": 1793234580.1501591,
+    "ast_hash": "92ac0ec3b9d19f5adebdf16978cd96b1",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/watch/scripts/build-skill.sh": {
+    "mtime": 1793234079.080129,
+    "seen": 1793234580.1501591,
+    "ast_hash": "8989bbb1b989650b81c7565309a4a030",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/watch/scripts/config.py": {
+    "mtime": 1793234079.080129,
+    "seen": 1793234580.1501591,
+    "ast_hash": "fb192697482fdced6b39b6451441ea34",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/watch/scripts/download.py": {
+    "mtime": 1793234079.0806892,
+    "seen": 1793234580.1501591,
+    "ast_hash": "e0d7f466e223256399d6627a89cb8eab",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/watch/scripts/frames.py": {
+    "mtime": 1793234079.0812335,
+    "seen": 1793234580.1501591,
+    "ast_hash": "c36189652fffcad10e6a5c980c8f4460",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/watch/scripts/gemini.py": {
+    "mtime": 1793234079.0812335,
+    "seen": 1793234580.1501591,
+    "ast_hash": "d46eac93e7e66ff368f280d72beaf995",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/watch/scripts/local_whisperx.py": {
+    "mtime": 1793234079.081797,
+    "seen": 1793234580.1501591,
+    "ast_hash": "ba0e1e6b23117c5f6a9504cd470a7a25",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/watch/scripts/runtime.py": {
+    "mtime": 1793234079.0823584,
+    "seen": 1793234580.1501591,
+    "ast_hash": "dc90714cbbff6c92e564bf0cdb82cd0b",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/watch/scripts/setup.py": {
+    "mtime": 1793234079.0823584,
+    "seen": 1793234580.1501591,
+    "ast_hash": "0263801ea6abb473f6589f9ff61dd151",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/watch/scripts/transcribe.py": {
+    "mtime": 1793234079.083069,
+    "seen": 1793234580.1501591,
+    "ast_hash": "5e1b4e9c2f812a61c214e86988ec9c9f",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/watch/scripts/watch.py": {
+    "mtime": 1793234079.0836143,
+    "seen": 1793234580.1501591,
+    "ast_hash": "d4f8e0d00282d44f2ab84dfd824e7952",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/watch/scripts/whisper.py": {
+    "mtime": 1793234079.0852695,
+    "seen": 1793234580.1501591,
+    "ast_hash": "c504a7a53d620adefedf5084ea3c83db",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/code-reels-hyperframes/SKILL.md": {
+    "mtime": 1793234475.7114358,
+    "seen": 1793234580.1501591,
+    "ast_hash": "2f4154a37e851f7f86d4448bc39d72a5",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes-cli/SKILL.md": {
+    "mtime": 1793234141.0378609,
+    "seen": 1793234580.1501591,
+    "ast_hash": "93736f848060dba434dd7530ee1d9c40",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes-cli/references/beats.md": {
+    "mtime": 1793234141.0427694,
+    "seen": 1793234580.1501591,
+    "ast_hash": "5f37c15c178361182c56e7e87c3a2e2d",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes-cli/references/cloud.md": {
+    "mtime": 1793234141.047086,
+    "seen": 1793234580.1501591,
+    "ast_hash": "ffe4074000fadd84eb244ffb013f57ea",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes-cli/references/cloudrun.md": {
+    "mtime": 1793234141.0491939,
+    "seen": 1793234580.1501591,
+    "ast_hash": "60137ffabebfa83acb404d7fb324c508",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes-cli/references/compare-and-batch.md": {
+    "mtime": 1793234141.0535414,
+    "seen": 1793234580.1501591,
+    "ast_hash": "a49061fa6125910155b0b41cefc05de2",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes-cli/references/conventions.md": {
+    "mtime": 1793234141.0555868,
+    "seen": 1793234580.1501591,
+    "ast_hash": "d0bdede0169c8a5deb59a37f248ad8ff",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes-cli/references/doctor-browser.md": {
+    "mtime": 1793234141.058734,
+    "seen": 1793234580.1501591,
+    "ast_hash": "daa00b29e7051d44f7a6c173a6f23527",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes-cli/references/feedback.md": {
+    "mtime": 1793234141.061246,
+    "seen": 1793234580.1501591,
+    "ast_hash": "8827de60f1e3c2d65520db6f474d9429",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes-cli/references/init-and-scaffold.md": {
+    "mtime": 1793234141.0697365,
+    "seen": 1793234580.1501591,
+    "ast_hash": "bfbea943e2b3701aebbd745aca6b7dc0",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes-cli/references/lambda.md": {
+    "mtime": 1793234141.0728512,
+    "seen": 1793234580.1501591,
+    "ast_hash": "7898617db7bf45adbab45d0a3ba41c36",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes-cli/references/lint-validate-inspect.md": {
+    "mtime": 1793234141.0780654,
+    "seen": 1793234580.1501591,
+    "ast_hash": "b8fba0541c8f6688a876f7b7beba17bc",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes-cli/references/preview-render.md": {
+    "mtime": 1793234141.0847602,
+    "seen": 1793234580.1501591,
+    "ast_hash": "e8b7f8b478124b51a2beef36aa71e4c6",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes-cli/references/upgrade-info-misc.md": {
+    "mtime": 1793234141.089285,
+    "seen": 1793234580.1501591,
+    "ast_hash": "4f0c109065aeee8f8e15debd8715dcef",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/SKILL.md": {
+    "mtime": 1793234140.7206318,
+    "seen": 1793234580.1501591,
+    "ast_hash": "07639e0273295c89c6853564a4e7e47b",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/assets/frame-presets/biennale-yellow/FRAME.md": {
+    "mtime": 1793234140.7305315,
+    "seen": 1793234580.1501591,
+    "ast_hash": "5ba38284a038422a2322ee6c0684af29",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/assets/frame-presets/biennale-yellow/caption-skin.html": {
+    "mtime": 1793234140.7360628,
+    "seen": 1793234580.1501591,
+    "ast_hash": "7b5126d5a584181e81944caa17ad3cfc",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/assets/frame-presets/biennale-yellow/frame-showcase.html": {
+    "mtime": 1793234140.7431211,
+    "seen": 1793234580.1501591,
+    "ast_hash": "14a2db60e142d390ddd0d99557ee577b",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/assets/frame-presets/blockframe/FRAME.md": {
+    "mtime": 1793234140.7503757,
+    "seen": 1793234580.1501591,
+    "ast_hash": "92006b1d09017e54aa74b56590b56c24",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/assets/frame-presets/blockframe/caption-skin.html": {
+    "mtime": 1793234140.7553236,
+    "seen": 1793234580.1501591,
+    "ast_hash": "148335502243132c5239088e07c10120",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/assets/frame-presets/blockframe/frame-showcase.html": {
+    "mtime": 1793234140.7629883,
+    "seen": 1793234580.1501591,
+    "ast_hash": "2c830c8107d6755b24debb3a4437206d",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/assets/frame-presets/blue-professional/FRAME.md": {
+    "mtime": 1793234140.766248,
+    "seen": 1793234580.1501591,
+    "ast_hash": "d9358052dfaf784a924835b90c4bacb9",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/assets/frame-presets/blue-professional/caption-skin.html": {
+    "mtime": 1793234140.7722213,
+    "seen": 1793234580.1501591,
+    "ast_hash": "5cd55b8c3c0e122eb731c9ecbadeca40",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/assets/frame-presets/blue-professional/frame-showcase.html": {
+    "mtime": 1793234140.779822,
+    "seen": 1793234580.1501591,
+    "ast_hash": "626447b0fb5cef5538a73709425c3801",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/assets/frame-presets/bold-poster/FRAME.md": {
+    "mtime": 1793234140.785804,
+    "seen": 1793234580.1501591,
+    "ast_hash": "6973373644c06f2baac86fb46684c43b",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/assets/frame-presets/bold-poster/caption-skin.html": {
+    "mtime": 1793234140.789635,
+    "seen": 1793234580.1501591,
+    "ast_hash": "30290587265fd4b252d1f2f0055c8b72",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/assets/frame-presets/bold-poster/frame-showcase.html": {
+    "mtime": 1793234140.7970834,
+    "seen": 1793234580.1501591,
+    "ast_hash": "6b074b2ce7c6efc68772545a012c8c74",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/assets/frame-presets/broadside/FRAME.md": {
+    "mtime": 1793234140.8013642,
+    "seen": 1793234580.1501591,
+    "ast_hash": "693fd0bdffff4c5ca1ad4ad6ed49953f",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/assets/frame-presets/broadside/caption-skin.html": {
+    "mtime": 1793234140.805751,
+    "seen": 1793234580.1501591,
+    "ast_hash": "b95e70907fdbd84da8b56c033c1969d2",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/assets/frame-presets/broadside/frame-showcase.html": {
+    "mtime": 1793234140.8117144,
+    "seen": 1793234580.1501591,
+    "ast_hash": "2f92f9136b4ddd80b7d504075f7dc265",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/assets/frame-presets/capsule/FRAME.md": {
+    "mtime": 1793234140.8175867,
+    "seen": 1793234580.1501591,
+    "ast_hash": "346c4338b3ae5096427bb4189587a990",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/assets/frame-presets/capsule/caption-skin.html": {
+    "mtime": 1793234140.821311,
+    "seen": 1793234580.1501591,
+    "ast_hash": "ed5f9a940381b9dee8c2dab565f9e190",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/assets/frame-presets/capsule/frame-showcase.html": {
+    "mtime": 1793234140.8273478,
+    "seen": 1793234580.1501591,
+    "ast_hash": "cd72b632231c212055b71d1f07758149",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/assets/frame-presets/cartesian/FRAME.md": {
+    "mtime": 1793234140.8326445,
+    "seen": 1793234580.1501591,
+    "ast_hash": "4352017c09f9ddea2084ca80a7bf089d",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/assets/frame-presets/cartesian/caption-skin.html": {
+    "mtime": 1793234140.8357885,
+    "seen": 1793234580.1501591,
+    "ast_hash": "3f38159d6a5d53b758a15b4b7e20c8c9",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/assets/frame-presets/cartesian/frame-showcase.html": {
+    "mtime": 1793234140.8409421,
+    "seen": 1793234580.1501591,
+    "ast_hash": "368da4c00c362edd9de53700f0180723",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/assets/frame-presets/cobalt-grid/FRAME.md": {
+    "mtime": 1793234140.846339,
+    "seen": 1793234580.1501591,
+    "ast_hash": "782391c4c78b35da693ba0bebc6985ff",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/assets/frame-presets/cobalt-grid/caption-skin.html": {
+    "mtime": 1793234140.8498628,
+    "seen": 1793234580.1501591,
+    "ast_hash": "ed013fc32b1c3d7aaebeb6f078001360",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/assets/frame-presets/cobalt-grid/frame-showcase.html": {
+    "mtime": 1793234140.8556492,
+    "seen": 1793234580.1501591,
+    "ast_hash": "ff6d6fee52eca2e81c0c02576969c027",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/assets/frame-presets/code-editorial/FRAME.md": {
+    "mtime": 1793234140.8605409,
+    "seen": 1793234580.1501591,
+    "ast_hash": "363e13898aff87e0ab87d04b5aa7c40b",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/assets/frame-presets/code-editorial/caption-skin.html": {
+    "mtime": 1793234140.8642805,
+    "seen": 1793234580.1501591,
+    "ast_hash": "8a48220038c49d943cea1f29b338f7e1",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/assets/frame-presets/code-editorial/fonts/OFL-eb-garamond.txt": {
+    "mtime": 1793234140.873167,
+    "seen": 1793234580.1501591,
+    "ast_hash": "c3722e191fd09a1822fe8dcd0ad85bf0",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/assets/frame-presets/code-editorial/fonts/OFL-inter.txt": {
+    "mtime": 1793234140.8742027,
+    "seen": 1793234580.1501591,
+    "ast_hash": "2eeb2b3ada55f38ae966db32bcb1f92a",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/assets/frame-presets/code-editorial/fonts/OFL-jetbrains-mono.txt": {
+    "mtime": 1793234140.8757918,
+    "seen": 1793234580.1501591,
+    "ast_hash": "85183f249e4d7a1dc1a19abe9c0e3887",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/assets/frame-presets/code-editorial/frame-showcase.html": {
+    "mtime": 1793234140.8813229,
+    "seen": 1793234580.1501591,
+    "ast_hash": "fa1c0ff5ce466a3db0c71213232e52e2",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/assets/frame-presets/coral/FRAME.md": {
+    "mtime": 1793234140.8824158,
+    "seen": 1793234580.1501591,
+    "ast_hash": "145c9e87c02c1f16a0008d2ecaf44952",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/assets/frame-presets/coral/caption-skin.html": {
+    "mtime": 1793234140.887973,
+    "seen": 1793234580.1501591,
+    "ast_hash": "a51b537de9f5b7fa449449ceff00eeb4",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/assets/frame-presets/coral/frame-showcase.html": {
+    "mtime": 1793234140.893006,
+    "seen": 1793234580.1501591,
+    "ast_hash": "393f6441ecddd5105b28ba926dd3977e",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/assets/frame-presets/creative-mode/FRAME.md": {
+    "mtime": 1793234140.899924,
+    "seen": 1793234580.1501591,
+    "ast_hash": "ecca34ad8c6faa396aba032bf63416a4",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/assets/frame-presets/creative-mode/caption-skin.html": {
+    "mtime": 1793234140.9043953,
+    "seen": 1793234580.1501591,
+    "ast_hash": "6364be6eb21ef4b193b200b89b8592bf",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/assets/frame-presets/creative-mode/frame-showcase.html": {
+    "mtime": 1793234140.910343,
+    "seen": 1793234580.1501591,
+    "ast_hash": "3766470894a7eb5d0b6425f2d0ba73b3",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/assets/frame-presets/daisy-days/FRAME.md": {
+    "mtime": 1793234140.9153388,
+    "seen": 1793234580.1501591,
+    "ast_hash": "b49189649967cafe00146366404d8402",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/assets/frame-presets/daisy-days/caption-skin.html": {
+    "mtime": 1793234140.92072,
+    "seen": 1793234580.1501591,
+    "ast_hash": "9e032c24d7e99cbbed25ae5eca222986",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/assets/frame-presets/daisy-days/frame-showcase.html": {
+    "mtime": 1793234140.9256258,
+    "seen": 1793234580.1501591,
+    "ast_hash": "4bc097cf67016a27afa4d78a99823a81",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/assets/frame-presets/editorial-forest/FRAME.md": {
+    "mtime": 1793234140.9320521,
+    "seen": 1793234580.1501591,
+    "ast_hash": "f9868819f7b82fb95748e06c96ce7571",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/assets/frame-presets/editorial-forest/caption-skin.html": {
+    "mtime": 1793234140.9371464,
+    "seen": 1793234580.1501591,
+    "ast_hash": "95dd8b5e632ce5c32e22fee5559bda55",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/assets/frame-presets/editorial-forest/frame-showcase.html": {
+    "mtime": 1793234140.9433677,
+    "seen": 1793234580.1501591,
+    "ast_hash": "d69733cbdcfec0fa3594655d7adffbc8",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/references/captions.md": {
+    "mtime": 1793234140.9475684,
+    "seen": 1793234580.1501591,
+    "ast_hash": "79eb12eaffd37c77b0a1a344a2acd37a",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/references/film.md": {
+    "mtime": 1793234140.951772,
+    "seen": 1793234580.1501591,
+    "ast_hash": "405137e1bdd8c836fefcea84a4a6c710",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/references/format.md": {
+    "mtime": 1793234140.9554572,
+    "seen": 1793234580.1501591,
+    "ast_hash": "cd7f057f3a30e1779482bc9f16cd84ba",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/references/look.md": {
+    "mtime": 1793234140.9592793,
+    "seen": 1793234580.1501591,
+    "ast_hash": "4ffd34125bd41bbe6891b5b474e3fcee",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/references/motion.md": {
+    "mtime": 1793234140.9646826,
+    "seen": 1793234580.1501591,
+    "ast_hash": "a26963e06e9bb09fa321226f9af4f985",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/references/overlays.md": {
+    "mtime": 1793234140.9688487,
+    "seen": 1793234580.1501591,
+    "ast_hash": "3ae0e6f2bc8ba1a99e4f78bdba79442a",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/references/plugin-installation.md": {
+    "mtime": 1793234140.973192,
+    "seen": 1793234580.1501591,
+    "ast_hash": "be8c869ae88866503a0bea9776c5bfb1",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/references/review.md": {
+    "mtime": 1793234140.977379,
+    "seen": 1793234580.1501591,
+    "ast_hash": "0d0e819c911a9aafe86442e4ab010098",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/references/runtimes.md": {
+    "mtime": 1793234140.980575,
+    "seen": 1793234580.1501591,
+    "ast_hash": "3ecc638b263a2c5eb55c5b93fe9943cc",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/references/skill-lifecycle.md": {
+    "mtime": 1793234140.984429,
+    "seen": 1793234580.1501591,
+    "ast_hash": "2a1aeb0c8ee53427e694478dd6dca7c6",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/references/sound.md": {
+    "mtime": 1793234140.988446,
+    "seen": 1793234580.1501591,
+    "ast_hash": "5ff65b3dd694538e6e5b5df33b25a86a",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/references/spec.md": {
+    "mtime": 1793234140.9935005,
+    "seen": 1793234580.1501591,
+    "ast_hash": "ee314fe8a9051c1630cfe219030537bf",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/references/story.md": {
+    "mtime": 1793234140.9960823,
+    "seen": 1793234580.1501591,
+    "ast_hash": "4b45b35f71301ccb61be38ca58a065ea",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/references/storyboard-format.md": {
+    "mtime": 1793234140.9995174,
+    "seen": 1793234580.1501591,
+    "ast_hash": "27e9784d09a64f364968d5368db8bb27",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/references/storyboard.md": {
+    "mtime": 1793234141.0028133,
+    "seen": 1793234580.1501591,
+    "ast_hash": "7be4573d9f2a2a8c360bf3ea41c378f9",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/references/types/3d.md": {
+    "mtime": 1793234141.0074244,
+    "seen": 1793234580.1501591,
+    "ast_hash": "53a205dd60fc316cf1b73208a78eaf1f",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/references/types/character.md": {
+    "mtime": 1793234141.0100393,
+    "seen": 1793234580.1501591,
+    "ast_hash": "05fdbafa48aec434c0927f9c2d57fa08",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/references/types/data.md": {
+    "mtime": 1793234141.013299,
+    "seen": 1793234580.1501591,
+    "ast_hash": "e7fc35c1f302efeadc6762795fb943cb",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/references/types/explainer.md": {
+    "mtime": 1793234141.01545,
+    "seen": 1793234580.1501591,
+    "ast_hash": "61a75f88c6223d7fe0a3a5265048c812",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/references/types/launch.md": {
+    "mtime": 1793234141.0191119,
+    "seen": 1793234580.1501591,
+    "ast_hash": "a78bfe4fa53d1e2d7eadb75d0a0f560b",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/references/types/music.md": {
+    "mtime": 1793234141.0211017,
+    "seen": 1793234580.1501591,
+    "ast_hash": "91540ec4b9fc45c665b988d6830c15fe",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/hyperframes/references/types/vertical.md": {
+    "mtime": 1793234141.02566,
+    "seen": 1793234580.1501591,
+    "ast_hash": "58986743778c95ac37570500dadfb76f",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/ig-audience-insights/SKILL.md": {
+    "mtime": 1793233936.8052049,
+    "seen": 1793234580.1501591,
+    "ast_hash": "a98dd4ec02a699475dd494f354b8e61b",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/ig-caption-writer/SKILL.md": {
+    "mtime": 1793233936.8069675,
+    "seen": 1793234580.1501591,
+    "ast_hash": "c52dbb4a481a9ced6283ac5b6f82c408",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/ig-caption-writer/references/caption-checklist.md": {
+    "mtime": 1793233936.834383,
+    "seen": 1793234580.1501591,
+    "ast_hash": "66701dd048a3ee5e9d93b825bf70464f",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/ig-carousel-planner/SKILL.md": {
+    "mtime": 1793233936.8371391,
+    "seen": 1793234580.1501591,
+    "ast_hash": "8219fde4a69ce64771edcaa1d112da17",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/ig-carousel-planner/references/slide-architecture.md": {
+    "mtime": 1793233936.8400488,
+    "seen": 1793234580.1501591,
+    "ast_hash": "5f69b8a9d70a0ad7403beb443f4b66fe",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/ig-content-planner/SKILL.md": {
+    "mtime": 1793233936.8425863,
+    "seen": 1793234580.1501591,
+    "ast_hash": "1f36ba1d169f1544b01c9c24a477cf59",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/ig-content-planner/references/example-week.md": {
+    "mtime": 1793233936.8431025,
+    "seen": 1793234580.1501591,
+    "ast_hash": "de0e8b640260819cab4dfa3ea851e454",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/ig-content-planner/references/pillars-framework.md": {
+    "mtime": 1793233936.8441193,
+    "seen": 1793234580.1501591,
+    "ast_hash": "146d5aa5093d000003b4a80a72575b79",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/ig-hashtag-strategist/SKILL.md": {
+    "mtime": 1793233936.8462932,
+    "seen": 1793234580.1501591,
+    "ast_hash": "1b0bc9238a4ff25a5a256dbd8826cda1",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/ig-hashtag-strategist/references/sourcing-tactics.md": {
+    "mtime": 1793233936.8479989,
+    "seen": 1793234580.1501591,
+    "ast_hash": "6421a97527e5e88113abd13aa91f5564",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/ig-hook-extractor/SKILL.md": {
+    "mtime": 1793233936.8494642,
+    "seen": 1793234580.1501591,
+    "ast_hash": "391f1797d4b0e452d03cfdb709020caa",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/ig-hook-extractor/references/classification-rules.md": {
+    "mtime": 1793233936.8514824,
+    "seen": 1793234580.1501591,
+    "ast_hash": "2082270e5258e68297c23426680881ae",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/ig-hook-extractor/references/examples.md": {
+    "mtime": 1793233936.8519952,
+    "seen": 1793234580.1501591,
+    "ast_hash": "6108fe6c458bde45550ac3ddea1aa13d",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/ig-humanizer/SKILL.md": {
+    "mtime": 1793233936.8543375,
+    "seen": 1793234580.1501591,
+    "ast_hash": "7847be98bab05ee5f0f056246c1f4368",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/ig-humanizer/references/audit-checklist.md": {
+    "mtime": 1793233936.8565807,
+    "seen": 1793234580.1501591,
+    "ast_hash": "d07875a763c651c6c5b72ba7c338188f",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/ig-humanizer/references/examples.md": {
+    "mtime": 1793233936.8579576,
+    "seen": 1793234580.1501591,
+    "ast_hash": "3ffedfcd65bf0589c160281c9a8fe192",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/ig-humanizer/references/scrub-rules.md": {
+    "mtime": 1793233936.8584986,
+    "seen": 1793234580.1501591,
+    "ast_hash": "fbba7e7e4ea4acdb4c2ff620f27175b4",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/ig-humanizer/sub-skills/illustration.md": {
+    "mtime": 1793233936.860028,
+    "seen": 1793234580.1501591,
+    "ast_hash": "008cf92f73c125836b3c84c25dfe16bf",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/ig-humanizer/sub-skills/post-audit.md": {
+    "mtime": 1793233936.861541,
+    "seen": 1793234580.1501591,
+    "ast_hash": "9c9adadebb75d55f00319907aeee1443",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/ig-humanizer/sub-skills/voice-profile.md": {
+    "mtime": 1793233936.8629022,
+    "seen": 1793234580.1501591,
+    "ast_hash": "e692bb0cde79057a0a518c859e51e5ef",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/ig-profile-optimizer/SKILL.md": {
+    "mtime": 1793233936.8644674,
+    "seen": 1793234580.1501591,
+    "ast_hash": "6ae486bed2dc297d89cbad6fd75735e8",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/ig-repurposer/SKILL.md": {
+    "mtime": 1793233936.864979,
+    "seen": 1793234580.1501591,
+    "ast_hash": "8f44c4b9961f65434b8ff9074400c9cd",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/instagram-content-engine/SKILL.md": {
+    "mtime": 1793234478.3589468,
+    "seen": 1793234580.1501591,
+    "ast_hash": "1fa1c619717c60d55575485dbdab48cb",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/kaggle_cloud_compute/SKILL.md": {
+    "mtime": 1793234500.261461,
+    "seen": 1793234580.1501591,
+    "ast_hash": "b7fc00e1d3440f8758b769cfeb56dd91",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/video-watch/SKILL.md": {
+    "mtime": 1793234473.8058722,
+    "seen": 1793234580.1501591,
+    "ast_hash": "3d4339af1e4947a7942b848ac85e91b4",
+    "semantic_hash": ""
+  },
+  "skills/playbooks/watch/SKILL.md": {
+    "mtime": 1793234079.0790322,
+    "seen": 1793234580.1501591,
+    "ast_hash": "b3a9a0ae2c2c4fd37dcfad5548a4cecc",
     "semantic_hash": ""
   }
 }

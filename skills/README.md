@@ -30,10 +30,13 @@ Este diretório cataloga todas as **Skills Especializadas** integradas ao Antigr
 - `osint-and-security-intelligence`: Investigação em fontes abertas (OSINT), PhoneIntel, Crucix, apk-reverse e análise forense.
 - `open-source-power-stack`: Acervo de tecnologias emergentes, agentes autônomos, Floci, MarkItDown, ripwire, WAHA e ferramentas de mídia.
 - `social-intelligence-and-career-ops`: Heurística Career-Ops, Claude Instagram Skill, Turnitout-Humanizer e matriz SaaS-Killers.
+- `instagram-content-engine` & `ig-*` (9 skills): Suíte completa de engenharia de conteúdo para Instagram (10 fórmulas de gancho, carrossel slide a slide, 5 hashtags, humanizador, calendário e viral scout).
+- `code-reels-hyperframes` & `hyperframes` (7 skills): Produção de Reels em código HTML/CSS + GSAP renderizados localmente em MP4 com custo zero de créditos.
+- `video-watch` & `watch`: Destrinchamento multimodal de vídeos cena por cena (`yt-dlp` + `ffmpeg` scene detection + `faster-whisper` / Kaggle GPU).
 - `ux-cognitive-laws`: As 20 Leis Cognitivas de UX de Isaque Paiva aplicadas a produtos e interfaces.
 - `aszadev_agy_offload`: Sidecar local para economia de tokens do Antigravity.
 - `laya_decision_engine`: Motor local de triagem rápida e decisões em milissegundos via ONNX.
-- `kaggle_cloud_compute`: Orquestrador de computação pesada gratuita em nuvem (GPUs T4 e TPUs).
+- `kaggle_cloud_compute`: Orquestrador prioritário de computação pesada gratuita em nuvem (GPUs 2x T4 32GB VRAM e TPUs) integrado às skills de vídeo, áudio e dados.
 - `ebook_ai_translator`: Esteira de ingestão e tradução de manuais com reprodução em Mermaid/ASCII.
 - `lms_academic_ops`: Automação de tarefas acadêmicas FAT / IFNMG Moodle com Notion Calendar.
 
